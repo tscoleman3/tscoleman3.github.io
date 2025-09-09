@@ -45,8 +45,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:tscoleman3@gmail.com"
-    - icon: orcid
-    icon_pack: brands
+  - icon: orcid
+    icon_pack: ai
     link: "https://orcid.org/0000-0001-7472-1976"
   - icon: twitter
     icon_pack: fab
@@ -62,7 +62,7 @@ social:
     link: "static/files/cv.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

@@ -1,5 +1,5 @@
 # Display name
-title: Nelson Bighetti
+title: Tyler Steven Coleman
 
 # Full Name (for SEO)
 first_name: Nelson

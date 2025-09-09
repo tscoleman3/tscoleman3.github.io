@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests lie at the interface between ecology (e.g., population, community, behavioral), biology (e.g., physiology, morphology, ontogeny), and natural resource management.
 
 interests:
   - Coupled Human and Natural Systems (CHANS)

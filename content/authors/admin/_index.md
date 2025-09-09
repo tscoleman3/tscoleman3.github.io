@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Tyler Coleman
+title: Tyler Steven Coleman
 
 # Full Name (for SEO)
-first_name: Tyler Steven
+first_name: Tyler
 last_name: Coleman
 
 # Is this the primary user of the site?

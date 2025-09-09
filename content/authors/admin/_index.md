@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Tyler Steven Coleman
+title: Nelson Bighetti
 
 # Full Name (for SEO)
-first_name: Tyler
-last_name: Coleman
+first_name: Nelson
+last_name: Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Assistant Research Professor
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Southeastern Louisiana University
+  - name: Stanford University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -59,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: `static/files/cv.pdf`
+  link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

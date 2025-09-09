@@ -48,15 +48,15 @@ social:
   - icon: orcid
     icon_pack: ai
     link: "https://orcid.org/0000-0001-7472-1976"
-  - icon: twitter
-    icon_pack: fab
-    link: "https://x.com/tycoleman_"
   - icon: google-scholar
     icon_pack: ai
     link: "https://scholar.google.com/citations?user=OHRhhmwAAAAJ&hl=en"
   - icon: github
     icon_pack: fab
     link: "https://github.com/tscoleman3"
+  - icon: twitter
+    icon_pack: fab
+    link: "https://x.com/tycoleman_"
   - icon: cv
     icon_pack: ai
     link: "static/files/cv.pdf"

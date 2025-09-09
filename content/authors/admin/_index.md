@@ -42,9 +42,6 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link like "mailto:your-email@example.com".
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "mailto:tscoleman3@gmail.com"
   - icon: orcid
     icon_pack: ai
     link: "https://orcid.org/0000-0001-7472-1976"
@@ -62,7 +59,7 @@ social:
     link: "static/files/cv.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "tscoleman3@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

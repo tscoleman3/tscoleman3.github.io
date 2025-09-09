@@ -2,8 +2,8 @@
 title: Tyler Steven Coleman
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Tyler Steven
+last_name: Coleman
 
 # Is this the primary user of the site?
 superuser: true

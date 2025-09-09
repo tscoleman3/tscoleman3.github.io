@@ -45,6 +45,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:tscoleman3@gmail.com"
+    - icon: orcid
+    icon_pack: brands
+    link: "https://orcid.org/0000-0001-7472-1976"
   - icon: twitter
     icon_pack: fab
     link: "https://x.com/tycoleman_"

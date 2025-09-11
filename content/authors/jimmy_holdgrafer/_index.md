@@ -49,7 +49,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers (Past and Present)
+  - Past Researchers
 ---
 
 Jimmy (he/him) worked with Drs. David Mason, Marcus Lashley, and me on an undergraduate thesis focused on using bird feeders as a novel tool to direct seed dispersal. Jimmy successfully published this research and currently works for the National Parks Service as a Wildlife Biologist. He was always the best to have around.

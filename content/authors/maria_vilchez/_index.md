@@ -56,7 +56,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers (Past and Present)
+  - Past Researchers
 ---
 
 I fiercely recruited Maria (she/her) to work with me in Dr. Andrew Carlson's lab during my Ph.D. As soon as I met her, when she was a Doris Duke Conservation Scholar with the Cooperative Fish and Wildlife Research Unit, I knew we could do great work together. We have now worked on numerous research projects and I am a better scientist and stronger mentor thanks to her. Maria is currently finishing up her M.Sc. degree at Auburn, searching for Ph.D. opportunities in Florida. 

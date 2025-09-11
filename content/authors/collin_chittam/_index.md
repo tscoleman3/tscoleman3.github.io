@@ -46,7 +46,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers (Past and Present)
+  - Past Researchers
 ---
 
 Collin (he/him) was an undergraduate research technician for me on my rotenone Thesis project. He now owns and runs his own company, Black Belt Land Management, LLC, in Alabama. Growing up a Roll Tide fan in north Alabama, he never gave the Tigers a chance to win over his heart. But his wife is one of the biggest Auburn fans I know; so, War Eagle, for life, Collin.

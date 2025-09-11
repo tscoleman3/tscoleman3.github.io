@@ -48,7 +48,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers (Past and Present)
+  - Past Researchers
 ---
 
 Mae (she/her) joined Dr. Matt Catalano's lab as a research assistant around the same time that I began graduate school. She assisted us with field work and data collection, data entry, and fish workup, even though she did not *love* fishes. Mae never said no, and would do the jobs we asked her, no matter how gruesome or boring they were. She was an awesome research associate. Mae is currently a Ph.D. student in Biomedical Sciences at the Medical College of Georgia at Augusta University. Good luck and have fun out there, Mae!

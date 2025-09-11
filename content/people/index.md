@@ -17,10 +17,11 @@ sections:
           - Postdoctoral Researchers
           - Graduate Students
           - Committee Service
+          - Researchers
           - Administration
           - Lab Alumni
           - Committee Alumni
-          - Researchers (Past and Present)
+          - Past Researchers
       sort_by: Params.last_name
       sort_ascending: true
     design:

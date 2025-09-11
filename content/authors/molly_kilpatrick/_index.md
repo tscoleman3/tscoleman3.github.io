@@ -48,7 +48,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers (Past and Present)
+  - Past Researchers
 ---
 
 Molly (she/her) joined Dr. Matt Catalano's lab as a research assistant for Rob Eckelbecker and me my last year as a student. She assisted us with field work and data collection, data entry, and fish workup on numerous reservoirs. She always worked hard and had a smile on her face. War Eagle, Molly!

@@ -14,8 +14,11 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Principal Investigator
+          - Postdoctoral Researchers
           - Graduate Students
-          - Researchers
+          - Committee Service
+          - Undergraduate Students
+          - Research Associates
           - Administration
           - Alumni
       sort_by: Params.last_name

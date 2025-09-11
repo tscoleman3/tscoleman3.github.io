@@ -18,10 +18,10 @@ sections:
           - Graduate Students
           - Committee Service
           - Undergraduate Students
-          - Research Associates
           - Administration
           - Lab Alumni
           - Committee Alumni
+          - Researchers (Past and Present)
       sort_by: Params.last_name
       sort_ascending: true
     design:

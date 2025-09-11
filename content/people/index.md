@@ -17,7 +17,6 @@ sections:
           - Postdoctoral Researchers
           - Graduate Students
           - Committee Service
-          - Undergraduate Students
           - Administration
           - Lab Alumni
           - Committee Alumni

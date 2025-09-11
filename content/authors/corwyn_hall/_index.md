@@ -18,9 +18,8 @@ role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-  - name: Southeastern Louisiana University
+  - name: Southeastern Louisiana University<br><span style='font-size:90%; color:gray;'>Aug 2023 – Jan 2025</span>
     url: ''
-    dates: August 2023 -- January 2025
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

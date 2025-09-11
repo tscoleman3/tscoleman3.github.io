@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-    - course: M.Sc. in Wildlife Ecology and Conservaiton
+    - course: M.Sc. in Wildlife Ecology and Conservation
       institution: University of Florida
       year: 2023
     - course: B.Sc. in Sustainability

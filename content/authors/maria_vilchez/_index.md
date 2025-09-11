@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Maria Vilchez
+title: Mariaguadalupe Vilchez
 
 # Full name (for SEO)
-first_name: Maria
+first_name: Mariaguadalupe
 last_name: Vilchez
 
 # Username (this should match the folder name)
@@ -43,7 +43,7 @@ education:
 social:
   - icon: researchgate
     icon_pack: ai
-    link: 
+    link: https://www.researchgate.net/profile/Mariaguadalupe-Vilchez
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mariaguadalupe-vilchez-727275244/

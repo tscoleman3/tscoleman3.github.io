@@ -25,8 +25,11 @@ organizations:
 bio: 
 
 interests:
-  - Thermal Ecology
-  - Reptiles
+  - Fisheries Ecology
+  - Fisheries Biology
+  - Wetland Ecology
+  - Natural Resource Management
+  - Conservation
 
 education:
   courses:

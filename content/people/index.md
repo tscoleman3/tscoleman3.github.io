@@ -20,7 +20,8 @@ sections:
           - Undergraduate Students
           - Research Associates
           - Administration
-          - Alumni
+          - Lab Alumni
+          - Committee Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:

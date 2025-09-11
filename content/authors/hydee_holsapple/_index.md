@@ -51,4 +51,4 @@ user_groups:
   - Committee Service
 ---
 
-Hydee (she/her) is a M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences working with Dr. Justin Anderson. She is studying the effects of insecticides on replication of White Spot Syndrome Virus in crayfish 
+Hydee (she/her) is an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences working with Dr. Justin Anderson. She is studying the effects of insecticides on replication of White Spot Syndrome Virus in crayfish 

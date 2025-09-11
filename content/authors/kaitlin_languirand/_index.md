@@ -51,4 +51,4 @@ user_groups:
   - Committee Service
 ---
 
-Kaitlin (she/her) is a M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences with Dr. April Wright. She is unveiling Mosasaur evolution by examining modularity in discrete character data.
+Kaitlin (she/her) is an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences with Dr. April Wright. She is unveiling Mosasaur evolution by examining modularity in discrete character data.

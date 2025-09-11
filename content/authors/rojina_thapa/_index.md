@@ -50,4 +50,4 @@ user_groups:
   - Committee Service
 ---
 
-Jaiere (she/her) is a M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences. She is studying the effects of imazethapyr on replication of White Spot Syndrome Virus in crayfish with Dr. Justin Anderson.
+Jaiere (she/her) is an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences. She is studying the effects of imazethapyr on replication of White Spot Syndrome Virus in crayfish with Dr. Justin Anderson.

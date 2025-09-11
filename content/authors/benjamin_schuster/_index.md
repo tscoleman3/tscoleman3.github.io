@@ -53,4 +53,4 @@ user_groups:
   - Committee Service
 ---
 
-Ben (he/him) is a M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences in Dr. Kyle Piller's lab. He is a big Detroit sports fan. For his thesis, he is examining swimbladder evolution in *Percina* (Percidae) through the use of Micro-CT scanning and phylogenetic comparative methods.
+Ben (he/him) is an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences in Dr. Kyle Piller's lab. He is a big Detroit sports fan. For his thesis, he is examining swimbladder evolution in *Percina* (Percidae) through the use of Micro-CT scanning and phylogenetic comparative methods.

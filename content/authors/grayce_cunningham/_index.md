@@ -26,7 +26,7 @@ bio:
 
 interests:
   - Environmental DNA
-  - Fisheries
+  - Fisheries Science
 
 education:
   courses:

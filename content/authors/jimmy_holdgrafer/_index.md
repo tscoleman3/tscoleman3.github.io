@@ -52,4 +52,4 @@ user_groups:
   - Researchers (Past and Present)
 ---
 
-Jimmy worked with Drs. David Mason, Marcus Lashley, and me on an undergraduate thesis focused on using bird feeders as a novel tool to direct seed dispersal. Jimmy successfully published this research and currently works for the National Parks Service as a Wildlife Biologist. He was always the best to have around.
+Jimmy (he/him) worked with Drs. David Mason, Marcus Lashley, and me on an undergraduate thesis focused on using bird feeders as a novel tool to direct seed dispersal. Jimmy successfully published this research and currently works for the National Parks Service as a Wildlife Biologist. He was always the best to have around.

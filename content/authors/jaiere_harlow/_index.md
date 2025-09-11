@@ -59,4 +59,4 @@ user_groups:
   - Committee Service
 ---
 
-Jaiere (she/her) is a Ph.D. student at the University of Florida in Florida Cooperative Fish and Wildlife Research Unit in Dr. Ray Carthy's lab. She is studying manatee research and conservation efforts in Florida using a Coupled Human and Natural Systems framework.
+Jaiere (she/her) is a Ph.D. student at the University of Florida in the Florida Cooperative Fish and Wildlife Research Unit in Dr. Ray Carthy's lab. She is studying manatee research and conservation efforts in Florida using a Coupled Human and Natural Systems framework.

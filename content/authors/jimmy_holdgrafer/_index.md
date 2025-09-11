@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate (2019 -- 2022)
+role: Undergraduate
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Florida
+  - name: University of Florida (2019 -- 2022)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

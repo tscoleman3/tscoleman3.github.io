@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate (2018 -- 2019)
+role: Undergraduate
 
 # Organizations/Affiliations
 organizations:
-  - name: Auburn University
+  - name: Auburn University (2018 -- 2019)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

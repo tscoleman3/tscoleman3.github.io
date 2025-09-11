@@ -25,7 +25,9 @@ organizations:
 bio: 
 
 interests:
-  - 
+  - Ecology
+  - Coupled Human and Natural Systems
+  - Natural Resource Management
 
 education:
   courses:

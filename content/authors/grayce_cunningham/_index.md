@@ -25,8 +25,8 @@ organizations:
 bio: 
 
 interests:
-  - Environmental DNA
   - Fisheries Science
+  - Environmental DNA
 
 education:
   courses:

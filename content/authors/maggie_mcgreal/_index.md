@@ -54,9 +54,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Committee Alumni
+  - Lab Alumni
 ---
 
-Maggie (she/her) was an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences with Dr. Chris Murray. She studied the spatiotemporal patterns and characteristics of American crocodiles in Costa Rica. She is currently pursuing Ph.D. opportunities focused on movement ecology and conservation.
-
-
+Maggie (she/her) was an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences with Dr. Chris Murray and me. She studied the influence of hydrology on the seasonal movement strategies of American crocodiles (*Crocodylus acutus*) in Costa Rica. She is currently pursuing Ph.D. opportunities focused on movement ecology and conservation.

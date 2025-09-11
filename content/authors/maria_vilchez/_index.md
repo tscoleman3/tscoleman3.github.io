@@ -18,7 +18,7 @@ role: Undergraduate
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Florida (2021 -- 2023)
+  - name: University of Florida (January 2021 – May 2023)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

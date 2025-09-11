@@ -59,7 +59,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Committee Service
+  - Committee Alumni
 ---
 
 Jaren (he/him) was a M.Sc. student at the University of Florida in the Florida Cooperative Fish and Wildlife Research Unit in Dr. Ray Carthy's lab. He studied the effects of tidally-driven gas exchange on sea turtle hatchling emergence. I was unofficially on his committee due to my status as a Ph.D. student. Jaren went home to work on turtles in Belize after completing his degree, but is now back at the University of Florida as a Ph.D. student.

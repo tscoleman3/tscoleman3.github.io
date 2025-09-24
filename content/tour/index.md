@@ -85,8 +85,8 @@ sections:
   # Impact banner with CTAs
   - block: hero
     content:
-      title: "Impact"
-      text: "From numbers to nature: understanding ecosystems."
+      title: "From Numbers to Nature: Understanding Ecosystems"
+      text: ""
       cta:
         label: "Explore Research"
         url: "/publication/"

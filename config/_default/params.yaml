@@ -41,6 +41,11 @@ header:
     show_search: true
     highlight_active_link: false
 
+# Logo
+logo:
+  text: "Coleman Research Group"   # show name next to the logo (leave "" to hide)
+  image: "logo.jpg"                # file in assets/media/
+
 # Site footer
 
 footer:

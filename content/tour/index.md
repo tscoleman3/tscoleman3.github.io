@@ -82,24 +82,26 @@ sections:
     design:
       columns: 3
 
-  # Impact banner with CTAs
+# Impact banner with CTAs
   - block: hero
-    content:
-      title: ""
-      text: ""
-      cta: "Explore Research"
-      cta_url: "/publications/"
-      cta_icon: book-open
-      cta_icon_pack: fas
-      cta_alt: "Meet the Team"
-      cta_alt_url: "/people/"
-      cta_alt_icon: users
-      cta_alt_icon_pack: fas
+   content:
+     title:
+     text:
+     cta:
+       label: "Explore Research"
+       url: "/publications/"
+       icon: book-open
+       icon_pack: fas
+     cta_alt:
+        label: "Meet the Team"
+       url: "/people/"
+       icon: users
+       icon_pack: fas
     design:
-      background:
+     background:
         image:
-          filename: tour-impact.jpg
-          filters: { brightness: 0.55 }
-        color: "#111"
-        text_color_light: true
+         filename: tour-impact.jpg
+         filters: { brightness: 0.55 }
+       color: "#111"
+       text_color_light: true
 ---

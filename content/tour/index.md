@@ -82,26 +82,26 @@ sections:
     design:
       columns: 3
 
-# Impact banner with CTAs
+  # Impact banner with CTAs
   - block: hero
-   content:
-     title:
-     text:
-     cta:
-       label: "Explore Research"
-       url: "/publications/"
-       icon: book-open
-       icon_pack: fas
-     cta_alt:
+    content:
+      title: "Impact"
+      text: "From numbers to nature: understanding ecosystems."
+      cta:
+        label: "Explore Research"
+        url: "/publications/"
+        icon: book-open
+        icon_pack: fas
+      cta_alt:
         label: "Meet the Team"
-       url: "/people/"
-       icon: users
-       icon_pack: fas
+        url: "/people/"
+        icon: users
+        icon_pack: fas
     design:
-     background:
+      background:
         image:
-         filename: tour-impact.jpg
-         filters: { brightness: 0.55 }
-       color: "#111"
-       text_color_light: true
+          filename: tour-impact.jpg
+          filters: { brightness: 0.55 }
+        color: "#111"
+        text_color_light: true
 ---

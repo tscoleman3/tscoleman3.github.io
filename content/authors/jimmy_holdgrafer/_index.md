@@ -18,7 +18,8 @@ role: Undergraduate
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Florida (January 2019 – December 2022)
+  - name: University of Florida
+  - name: (January 2019 – December 2022)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

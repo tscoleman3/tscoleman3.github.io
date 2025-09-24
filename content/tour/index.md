@@ -10,7 +10,7 @@ sections:
       slides:
         - title: "From Data to Decisions"
           content: "Field observations transformed into quantitative insight across scales."
-          align: center
+          align: right
           background:
             image:
               filename: tour-field.jpg
@@ -86,7 +86,7 @@ sections:
   - block: hero
     content:
       title: "Impact"
-      text: "We connect rigorous science with management, restoration, and communities to safeguard aquatic ecosystems."
+      text: "We transform quantitative research into actionable knowledge that guides management, restoration, and communities in sustaining ecosystems for the future."
       buttons:
         - label: "Explore Research"
           url: "/publications/"

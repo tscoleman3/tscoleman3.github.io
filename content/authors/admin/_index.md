@@ -54,6 +54,9 @@ social:
   - icon: github
     icon_pack: fab
     link: "https://github.com/tscoleman3"
+    - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/tyler-steven-coleman-a2744ab3/
   - icon: twitter
     icon_pack: fab
     link: "https://x.com/tycoleman_"

@@ -75,18 +75,21 @@ sections:
       columns: "2"   # cards per row (auto-wrap)
 
   # Impact banner (one distilled line)
-  - block: cta
+  - block: hero
     content:
       title: "Impact"
       text: "We connect rigorous science with management, restoration, and communities to safeguard aquatic ecosystems."
-      cta: "Explore Research"
-      cta_url: "/publications/"
-      cta_alt: "Meet the Team"
-      cta_alt_url: "/people/"
+      buttons:
+        - label: "Explore Research"
+          url: "/publications/"
+          style: primary
+        - label: "Meet the Team"
+          url: "/people/"
+          style: outline
     design:
       background:
         image:
-          filename: tour-impact.jpg          # <-- add to assets/media/
+          filename: tour-impact.jpg   # make sure this exists in assets/media/
           filters: { brightness: 0.55 }
         color: "#111"
         text_color_light: true

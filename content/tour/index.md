@@ -10,12 +10,12 @@ sections:
       slides:
         - title: "From Data to Decisions"
           content: "Field observations transformed into quantitative insight across scales."
-          align: right
+          align: center
           background:
             image:
               filename: tour-field.jpg      # <-- add to assets/media/
               filters: { brightness: 0.7 }
-            position: center
+            position: right
             color: "#333"
         - title: "Applied Science for Action"
           content: "Turning analytics into guidance for conservation, restoration, and policy."

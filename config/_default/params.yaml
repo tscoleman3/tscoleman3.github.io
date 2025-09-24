@@ -51,6 +51,9 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+    text: '<p style="text-align:center; font-style:italic;">
+  “I believe that education is all about being excited about something. Seeing passion and enthusiasm helps push an educational message.” – Steve Irwin
+  </p>'
 
 # Localization
 

@@ -53,7 +53,7 @@ sections:
   # Middle: 6 pillars as visual cards
   - block: features
     content:
-      title: "Our Foundation:"
+      title: "Our Foundation"
       items:
         - icon: compass
           icon_pack: fas
@@ -82,13 +82,13 @@ sections:
     design:
       columns: 3
 
-  # Impact banner (one distilled line)
+  # Impact banner with CTAs
   - block: hero
-   content:
-     title:
-     text: 
-     cta: "Explore Research"
-     cta_url: "/publications/"
+    content:
+      title: ""
+      text: ""
+      cta: "Explore Research"
+      cta_url: "/publications/"
       cta_icon: book-open
       cta_icon_pack: fas
       cta_alt: "Meet the Team"

@@ -84,16 +84,17 @@ sections:
 
   # Impact banner (one distilled line)
   - block: hero
-    content:
-      title: "Impact"
-      text: "We transform quantitative research into actionable knowledge that guides management, restoration, and communities in sustaining ecosystems for the future."
-      buttons:
-        - label: "Explore Research"
-          url: "/publications/"
-          style: primary
-        - label: "Meet the Team"
-          url: "/people/"
-          style: outline
+   content:
+     title:
+     text: 
+     cta: "Explore Research"
+     cta_url: "/publications/"
+      cta_icon: book-open
+      cta_icon_pack: fas
+      cta_alt: "Meet the Team"
+      cta_alt_url: "/people/"
+      cta_alt_icon: users
+      cta_alt_icon_pack: fas
     design:
       background:
         image:

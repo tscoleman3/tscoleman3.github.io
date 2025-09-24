@@ -89,7 +89,7 @@ sections:
       text: "From numbers to nature: understanding ecosystems."
       cta:
         label: "Explore Research"
-        url: "/publications/"
+        url: "/publication/"
         icon: book-open
         icon_pack: fas
       cta_alt:

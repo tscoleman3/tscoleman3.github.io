@@ -1,54 +1,93 @@
 ---
-title: Tour
-date: 2024-09-20
-
+title: "Tour"
+date: 2024-10-24
 type: landing
 
+# Top: Visual slider (quick hits)
 sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
-        align: center
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+        - title: "From Field to Inference"
+          content: "Collecting, curating, and modeling ecological data across scales."
+          align: center
+          background:
+            image:
+              filename: tour-field.jpg      # <-- add to assets/media/
+              filters: { brightness: 0.7 }
+            position: center
+            color: "#333"
+        - title: "Science for Management"
+          content: "Quantitative results that inform conservation, restoration, and policy."
+          align: left
+          background:
+            image:
+              filename: tour-management.jpg  # <-- add to assets/media/
+              filters: { brightness: 0.65 }
+            position: center
+            color: "#222"
+        - title: "Human–Natural Systems"
+          content: "Integrating people and ecosystems to understand real-world dynamics."
+          align: right
+          background:
+            image:
+              filename: tour-chans.jpg       # <-- add to assets/media/
+              filters: { brightness: 0.65 }
+            position: center
+            color: "#222"
+        - title: "Mentorship in Action"
+          content: "Training students in rigorous fieldwork and modern analytics."
+          align: center
+          background:
+            image:
+              filename: tour-mentorship.jpg  # <-- add to assets/media/
+              filters: { brightness: 0.65 }
+            position: center
+            color: "#222"
     design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
+      slide_height: ""     # auto height
       is_fullscreen: true
-      # Automatically transition through slides?
       loop: false
-      # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 2500
+
+  # Middle: 4 pillars as visual cards
+  - block: features
+    content:
+      title: "What You'll See"
+      items:
+        - icon: activity
+          icon_pack: lucide
+          title: "Field → Data → Decisions"
+          text: "From sampling plans and QA/QC to tidy data pipelines that drive management."
+        - icon: line-chart
+          icon_pack: lucide
+          title: "Quantitative Ecology"
+          text: "Statistical modeling, forecasting, and decision-support tools."
+        - icon: users
+          icon_pack: lucide
+          title: "CHANS Perspective"
+          text: "Coupled human–natural systems as the default lens for aquatic science."
+        - icon: graduation-cap
+          icon_pack: fas
+          title: "Mentorship"
+          text: "Hands-on field skills, reproducible analysis, and clear communication."
+    design:
+      columns: "2"   # cards per row (auto-wrap)
+
+  # Impact banner (one distilled line)
+  - block: cta
+    content:
+      title: "Impact"
+      text: "We connect rigorous science with management, restoration, and communities to safeguard aquatic ecosystems."
+      cta: "Explore Research"
+      cta_url: "/publications/"
+      cta_alt: "Meet the Team"
+      cta_alt_url: "/people/"
+    design:
+      background:
+        image:
+          filename: tour-impact.jpg          # <-- add to assets/media/
+          filters: { brightness: 0.55 }
+        color: "#111"
+        text_color_light: true
 ---

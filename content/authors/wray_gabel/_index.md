@@ -18,7 +18,8 @@ role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-  - name: "Southeastern Louisiana University<br><span style='font-size:90%; color:gray;'>August 2023 – present</span>"
+  - name: Southeastern Louisiana University 
+  - name: (August 2023 – present)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

@@ -10,7 +10,7 @@ sections:
       slides:
         - title: "From Data to Decisions"
           content: "Field observations transformed into quantitative insight across scales."
-          align: center
+          align: right
           background:
             image:
               filename: tour-field.jpg      # <-- add to assets/media/

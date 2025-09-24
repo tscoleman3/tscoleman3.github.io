@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-        - title: "From Field to Inference"
-          content: "Collecting, curating, and modeling ecological data across scales."
+        - title: "From Data to Decisions"
+          content: "Field observations transformed into quantitative insight across scales."
           align: center
           background:
             image:
@@ -17,8 +17,8 @@ sections:
               filters: { brightness: 0.7 }
             position: center
             color: "#333"
-        - title: "Science for Management"
-          content: "Quantitative results that inform conservation, restoration, and policy."
+        - title: "Applied Science for Action"
+          content: "Turning analytics into guidance for conservation, restoration, and policy."
           align: left
           background:
             image:
@@ -26,8 +26,8 @@ sections:
               filters: { brightness: 0.65 }
             position: center
             color: "#222"
-        - title: "Human–Natural Systems"
-          content: "Integrating people and ecosystems to understand real-world dynamics."
+        - title: "Coupled Systems, Real Solutions"
+          content: "Integrating people and ecosystems to reveal the dynamics that shape our world."
           align: right
           background:
             image:
@@ -35,8 +35,8 @@ sections:
               filters: { brightness: 0.65 }
             position: center
             color: "#222"
-        - title: "Mentorship in Action"
-          content: "Training students in rigorous fieldwork and modern analytics."
+        - title: "Mentorship and Impact"
+          content: "Empowering students with the tools to design studies, analyze data, and drive change."
           align: center
           background:
             image:

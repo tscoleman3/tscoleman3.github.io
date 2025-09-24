@@ -8,17 +8,18 @@ last_name: Milstead
 
 # Username (this should match the folder name)
 authors:
-  - lani_milstead
+  - lani_milstead2
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: M.Sc. Graduate
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
   - name: Southeastern Louisiana University
+  - name: (May 2025 – present)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -49,7 +50,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Committee Alumni
+  - Researchers
 ---
 
-Lani (she/her) was an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences with Dr. Chris Murray. She studied the effects of light and density on the physiological stress response of the American alligator (*Alligator mississippiensis*) in aquaculture facilities. She is currently a Research Associate in the Center for Environmental Research at Southeastern while she explores Ph.D. opportunities.
+Lani (she/her) is a familiar face, as she previously allowed me to be on her M.Sc. committee. She is now a research associate for the Lake Maurepas Monitoring Program at Southeastern Louisiana University in the Center for Environmental Research and Department of Biological Sciences. She is assisting the physiology team with research, while pursuing Ph.D. opportunities.

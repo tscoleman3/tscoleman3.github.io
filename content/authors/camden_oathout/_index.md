@@ -1,41 +1,41 @@
 ---
 # Display name
-title: Lani Milstead
+title: Camden Oathout
 
 # Full name (for SEO)
-first_name: Lani
-last_name: Milstead
+first_name: Camden
+last_name: Oathout
 
 # Username (this should match the folder name)
 authors:
-  - lani_milstead
+  - camden_oathout
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: M.Sc. Graduate
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-  - name: Southeastern Louisiana University
+  - name: Southeastern Louisiana University 
+  - name: (November 2024 – present)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - Physiological Ecology
-  - Herpetology
+  - Environmental DNA
 
 education:
   courses:
     - course: M.Sc. in Biology
       institution: Southeastern Louisiana University
-      year: 2025
-    - course: B.Sc. in Biology
-      institution: Southeastern Louisiana University
-      year: 2023
+      year: 2024
+    - course: B.Sc. in Fisheries and Wildlife
+      institution: University of Nebraska
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -49,7 +49,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Committee Alumni
+  - Researchers
 ---
 
-Lani (she/her) was an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences with Dr. Chris Murray. She studied the effects of light and density on the physiological stress response of the American alligator (*Alligator mississippiensis*) in aquaculture facilities. She is currently a Research Associate in the Center for Environmental Research at Southeastern while she explores Ph.D. opportunities.
+Cam (she/her) is a research associate for the Lake Maurepas Monitoring Program at Southeastern Louisiana University in the Center for Environmental Research and Department of Biological Sciences. She leads the Lake Maurepas eDNA sampling.
+

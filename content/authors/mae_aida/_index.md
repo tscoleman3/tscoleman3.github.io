@@ -18,7 +18,7 @@ role: Undergraduate
 
 # Organizations/Affiliations
 organizations:
-  - name: Auburn University (August 2017 – May 2019)
+  - name: "Auburn University<br><span style='font-size:90%; color:gray;'>August 2017 – May 2019</span>"
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

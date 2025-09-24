@@ -50,29 +50,37 @@ sections:
       loop: false
       interval: 2500
 
-  # Middle: 4 pillars as visual cards
-  - block: features
-    content:
-      title: "What You'll See"
-      items:
-        - icon: flask
-          icon_pack: fas
-          name: "Field → Data → Decisions"
-          description: "From sampling plans and QA/QC to tidy data pipelines that drive management."
-        - icon: chart-line
-          icon_pack: fas
-          name: "Quantitative Ecology"
-          description: "Statistical modeling, forecasting, and decision-support tools."
-        - icon: users
-          icon_pack: fas
-          name: "CHANS Perspective"
-          description: "Coupled human–natural systems as the default lens for aquatic science."
-        - icon: graduation-cap
-          icon_pack: fas
-          name: "Mentorship"
-          description: "Hands-on field skills, reproducible analysis, and clear communication."
-    design:
-      columns: 2
+# Middle: 6 pillars as visual cards
+- block: features
+  content:
+    title: "Our Foundation:"
+    items:
+      - icon: compass
+        icon_pack: fas
+        name: "Strategic Study Design"
+        description: "Asking clear, testable questions and building studies that are replicable, scalable, and ecologically meaningful."
+      - icon: database
+        icon_pack: fas
+        name: "Data Integrity & Innovation"
+        description: "Ensuring rigorous QA/QC, reproducible workflows, and creative use of quantitative tools to unlock reliable inference."
+      - icon: chart-line
+        icon_pack: fas
+        name: "Applied Analytics"
+        description: "Transforming complex datasets into actionable insights for conservation, restoration, policy, and beyond."
+      - icon: globe
+        icon_pack: fas
+        name: "Coupled Human & Natural Systems"
+        description: "Integrating ecological, social, and management dimensions to reflect the real-world complexity of ecosystems."
+      - icon: graduation-cap
+        icon_pack: fas
+        name: "Mentorship & Relationship Building"
+        description: "Training students and collaborators to approach problems with quantitative skill, creativity, and applied purpose."
+      - icon: users
+        icon_pack: fas
+        name: "Broader Impacts"
+        description: "Communicating results that empower communities, managers, and decision-makers to protect ecosystems and people."
+  design:
+    columns: 3
 
   # Impact banner (one distilled line)
   - block: hero

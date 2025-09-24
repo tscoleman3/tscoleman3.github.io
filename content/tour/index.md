@@ -55,24 +55,24 @@ sections:
     content:
       title: "What You'll See"
       items:
-        - icon: activity
-          icon_pack: lucide
-          title: "Field → Data → Decisions"
-          text: "From sampling plans and QA/QC to tidy data pipelines that drive management."
-        - icon: line-chart
-          icon_pack: lucide
-          title: "Quantitative Ecology"
-          text: "Statistical modeling, forecasting, and decision-support tools."
+        - icon: flask
+          icon_pack: fas
+          name: "Field → Data → Decisions"
+          description: "From sampling plans and QA/QC to tidy data pipelines that drive management."
+        - icon: chart-line
+          icon_pack: fas
+          name: "Quantitative Ecology"
+          description: "Statistical modeling, forecasting, and decision-support tools."
         - icon: users
-          icon_pack: lucide
-          title: "CHANS Perspective"
-          text: "Coupled human–natural systems as the default lens for aquatic science."
+          icon_pack: fas
+          name: "CHANS Perspective"
+          description: "Coupled human–natural systems as the default lens for aquatic science."
         - icon: graduation-cap
           icon_pack: fas
-          title: "Mentorship"
-          text: "Hands-on field skills, reproducible analysis, and clear communication."
+          name: "Mentorship"
+          description: "Hands-on field skills, reproducible analysis, and clear communication."
     design:
-      columns: "2"   # cards per row (auto-wrap)
+      columns: 2
 
   # Impact banner (one distilled line)
   - block: hero

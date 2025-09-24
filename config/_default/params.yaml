@@ -45,8 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Tyler Steven Coleman. This work is licensed under {license}'
-    text: 'I believe that education is all about being excited about something. Seeing passion and enthusiasm helps push an educational message. – Steve Irwin'
+    notice: '© {year} Tyler Steven Coleman. This work is licensed under {license}<br><em>I believe that education is all about being excited about something. Seeing passion and enthusiasm helps push an educational message. – Steve Irwin</em>'
     license:
       enable: true
       allow_derivatives: false

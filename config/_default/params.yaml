@@ -41,11 +41,9 @@ header:
     show_search: true
     highlight_active_link: false
 
-# Logo
-logo:
-  text: "Coleman Research Group"   # show name next to the logo (leave "" to hide)
-  image: "logo.jpg"                # file in assets/media/
-  image_dark: "logo.jpg"
+    logo:
+      text: "Coleman Research Group"   # or "" if you want only the icon
+      filename: "logo.png"             # must live in assets/media/
 
 # Site footer
 

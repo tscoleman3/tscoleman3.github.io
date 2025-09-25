@@ -42,8 +42,9 @@ header:
     highlight_active_link: false
 
     logo:
-      text: "Coleman Research Group"   # or "" if you want only the icon
-      filename: "logo.png"             # must live in assets/media/
+      filename: "logo.jpg"               # must be in assets/media/
+      text: "Coleman Research Group"     # this is what shows next to the logo
+      alt_text: "Coleman Research Group"
 
 # Site footer
 

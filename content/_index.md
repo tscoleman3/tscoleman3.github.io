@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **Trusted Science Center** is led by Tyler Steven Coleman at Southeastern Louisiana University. We bring together students, collaborators, and communities to tackle complex ecological questions with transparency, rigor, and innovation. Our *mission* is to advance quantitative and applied research that links ecosystems, people, and policy, treating natural systems as coupled human and natural systems. By integrating careful study design, strategic analytics, and diverse perspectives, we aim to deliver science that is not only academically sound, but also actionable for conservation, restoration, and management. We are committed to mentorship and capacity building, preparing the next generation of scientists to approach problems with curiosity, creativity, and skill.
+        The **Trusted Science Center** is led by Tyler Steven Coleman at Southeastern Louisiana University. We bring together students, collaborators, and communities to tackle complex ecological questions with transparency, rigor, and innovation. Our *mission* is to advance quantitative and applied research that links ecosystems, people, and policy, treating systems as coupled human and natural systems. By integrating careful study design, strategic analytics, and diverse perspectives, we aim to deliver science that is not only academically sound, but also actionable for conservation, restoration, and management. We are committed to mentorship and capacity building, preparing the next generation of scientists to approach problems with curiosity, creativity, and skill.
   
   - block: collection
     content:

@@ -1,3 +1,26 @@
 .section-subtitle {
   color: rgba(255, 255, 255, 0.85); /* 75% white */
 }
+
+/* ensure logo and title both show in the navbar */
+.navbar .navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* different theme versions use different classnames; cover common ones */
+.navbar .navbar-brand .navbar-title,
+.navbar .navbar-brand .site-title,
+.navbar .brand .site-title {
+  display: inline-block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  white-space: nowrap;
+}
+
+/* give the logo a little breathing room */
+.navbar .navbar-brand img,
+.navbar .navbar-brand .navbar-logo {
+  margin-right: 0.5rem;
+}

@@ -27,7 +27,7 @@ featured: false
 
 # Links (use DOI as canonical source; add PDF only if you have a direct/public link)
 url_source: ""
-url_pdf: "https://tscoleman3.github.io/publication/2024holdgrafter_bird/paper.pdf"
+url_pdf: "https://tscoleman3.github.io/publication/2024holdgrafer_bird/paper.pdf"
 url_code: ""
 url_dataset: ""
 url_project: ""

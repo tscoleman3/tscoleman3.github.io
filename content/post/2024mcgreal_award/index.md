@@ -3,7 +3,7 @@ title: "Maggie McGreal awarded a 2024 WILDLABS grant"
 date: 2024-07-11
 authors: ["maggie_mcgreal"]
 summary: "Recognized for her innovative work with sensor technology, Maggie will advance crocodilian conservation and ecosystem monitoring in Costa Rica."
-tags: ["awards", "grants", "sensors", "crocodilians"]
+tags: ["awards", "grants"]
 featured: true
 ---
 

@@ -8,34 +8,33 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Trusted Science Center
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Trusted Science Center** is led by Tyler Steven Coleman at Southeastern Louisiana University. We bring together students, collaborators, and communities to tackle complex ecological questions with transparency, rigor, and innovation. Our *mission* is to advance quantitative and applied research that links ecosystems, people, and policy, treating natural systems as coupled human and natural systems. By integrating careful study design, strategic analytics, and diverse perspectives, we aim to deliver science that is not only academically sound, but also actionable for conservation, restoration, and management. We are committed to mentorship and capacity building, preparing the next generation of scientists to approach problems with curiosity, creativity, and skill.
   
   - block: collection
     content:
-      title: Latest News
+      title: Latest Publications
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
-        author: ''
-        category: ''
+        folders: [publication]              # pull from content/publication/
+        publication_type: "article-journal" # only journal articles
         exclude_featured: false
-        publication_type: ''
-        tag: ''
       offset: 0
-      order: desc
-      page_type: post
+      sort_by: date
+      sort_ascending: false
     design:
-      view: card
+      view: citation
       columns: '1'
-  
+      spacing:
+        padding: ['8px', '0', '8px', '0']
+
   - block: markdown
     content:
       title:
@@ -45,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: manatee.jpg
           filters:
             brightness: 1
           parallax: false
@@ -58,15 +57,16 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest News
       text: ""
-      count: 5
+      count: 2
       filters:
-        folders:
-          - publication
-        publication_type: 'article'
+        folders: [post]   # pull from content/post/
+      offset: 0
+      sort_by: date
+      sort_ascending: false
     design:
-      view: citation
+      view: card
       columns: '1'
 
   - block: markdown

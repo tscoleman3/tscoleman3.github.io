@@ -1,6 +1,7 @@
 ---
-title: "American alligators (<em>Alligator mississippiensis</em>) as wetland ecosystem carbon stock regulators"
-markup: html
+title: "American alligators as wetland ecosystem carbon stock regulators"
+subtitle: "(*Alligator mississippiensis*)"
+
 authors:
   - Christopher M. Murray
   - admin

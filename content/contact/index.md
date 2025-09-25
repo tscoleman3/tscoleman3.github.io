@@ -20,7 +20,7 @@ sections:
       coordinates:
         latitude: '30.51075'
         longitude: '-90.46649'
-      directions: Therma Ryan Hall (Biology)
+      directions: Thelma Ryan Hall (Biology)
       office_hours:
         - 'Thursday 2:00 to 4:00 PM'
       #contact_links:

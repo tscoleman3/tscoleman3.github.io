@@ -27,7 +27,7 @@ featured: false
 
 # Links (use DOI as canonical source; add PDF only if you have a direct/public link)
 url_source: ""
-url_pdf: "manuscript.pdf"
+url_pdf: "paper.pdf"
 url_code: ""
 url_dataset: ""
 url_project: ""

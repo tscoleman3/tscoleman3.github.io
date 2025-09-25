@@ -48,8 +48,8 @@ header:
 
     logo:
       filename: "logo.jpg"               # must be in assets/media/
-      text: "Coleman Research Group"     # this is what shows next to the logo
-      alt_text: "Coleman Research Group"
+      text: "Trusted Science Center"     # this is what shows next to the logo
+      alt_text: "Trusted Science Center"
 
 # Site footer
 

@@ -21,13 +21,13 @@ abstract: We compared different creel survey methods at three Alabama reservoirs
 
 tags: 
 - fisheries
+- management
 - creel surveys
-- effort estimation
 featured: false
 
 # Links (use DOI as canonical source; add PDF only if you have a direct/public link)
 url_source: ""
-url_pdf: "paper.pdf"
+url_pdf: "https://tscoleman3.github.io/publication/2022eckelbecker_creels/paper.pdf"
 url_code: ""
 url_dataset: ""
 url_project: ""

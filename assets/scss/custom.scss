@@ -24,3 +24,19 @@
 .navbar .navbar-brand .navbar-logo {
   margin-right: 0.5rem;
 }
+
+/* Always show brand text next to the logo */
+.navbar .navbar-brand::after {
+  content: "Coleman Research Group";
+  display: inline-block;
+  margin-left: 0.5rem;
+  font-weight: 600;
+  font-size: 1.05rem;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+/* Keep it readable on dark navbars */
+[data-bs-theme="dark"] .navbar .navbar-brand::after {
+  opacity: 0.95;
+}

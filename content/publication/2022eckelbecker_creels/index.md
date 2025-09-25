@@ -26,8 +26,8 @@ tags:
 featured: false
 
 # Links (use DOI as canonical source; add PDF only if you have a direct/public link)
-url_source: "https://doi.org/10.1002/nafm.10828"
-url_pdf: manuscript.pdf
+url_source: ""
+url_pdf: "manuscript.pdf"
 url_code: ""
 url_dataset: ""
 url_project: ""

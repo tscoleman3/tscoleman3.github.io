@@ -1,5 +1,6 @@
 ---
-title: "The spatial ecology of nuisance crocodiles: movement patterns of relocated American crocodiles (*Crocodylus acutus*) in Guanacaste, Costa Rica"
+title: "The spatial ecology of nuisance crocodiles: movement patterns of relocated American crocodiles in Guanacaste, Costa Rica"
+subtitle: "(*Crocodylus acutus*)"
 authors:
   - admin
   - wray_gabel

@@ -36,7 +36,7 @@ url_poster: ""
 url_video: ""
 
 # Card image (optional): put featured.jpg/png in this same folder if you want a thumbnail
-image: "featured.jpg"
+image: featured.jpg
   caption: ""
   focal_point: "center"
   preview_only: false

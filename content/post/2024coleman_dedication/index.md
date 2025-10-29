@@ -14,8 +14,8 @@ I always did my best to bring energy, enthusiasm, and cordiality to our Unit. I 
 The Unit wrote: *Every now and then, we encounter a student whose achievements are so noteworthy, and whose resilience amid adversity is so remarkable, that they deserve special recognition. We dedicate the 2023 Annual Report to one such student, Tyler Steven Coleman.*
 
 <p>
-  <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://wec.ifas.ufl.edu/media/wecifasufledu/files/coop/2023-FL-Coop-Unit-Annual-Report.pdf"
+  <a href="https://wec.ifas.ufl.edu/coop/publications/"
      class="btn btn-primary" target="_blank" rel="noopener">
-    Read the full Annual Report Dedication (page 5)
+    Read the full 2023 Annual Report Dedication (page 5)
   </a>
 </p>

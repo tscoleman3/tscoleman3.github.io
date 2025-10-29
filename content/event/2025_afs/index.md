@@ -12,7 +12,7 @@ address:
   country: "United States"
 
 summary: "Presentations at the 155th Annual Meeting of the American Fisheries Society"
-abstract: "Headwaters to Saltwater: Understanding the Past, Protecting the Future — 155 Years of AFS"
+theme: "Headwaters to Saltwater: Understanding the Past, Protecting the Future — 155 Years of AFS"
 
 date: "2025-08-10"
 date_end: "2025-08-14"
@@ -30,12 +30,11 @@ tags: ["conference", "presentations", "AFS"]
 
 ---
 
-### **TSC Presentations**
+### Trusted Science Center Presentations
 
-#### {{< mention "camden_oathout" >}}, C. E. Gard, {{< mention "admin" >}}, and K. R. Piller  
-**Comparing active and passive methods of aquatic environmental DNA collection across a diel cycle in a coastal riverine habitat.**  
-*(Talk)*  
+#### {{< mention "camden_oathout" >}}, Claire E. Gard, {{< mention "admin" >}}, and Kyle R. Piller  
+Comparing active and passive methods of aquatic environmental DNA collection across a diel cycle in a coastal riverine habitat. *(Talk)*  
 
-![Cam Oathout presenting](oathout_talk.jpg)
+![The Alamo](alamo.jpg)
 
 ---

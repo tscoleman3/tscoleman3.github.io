@@ -7,9 +7,9 @@ type: landing
 sections:
   - block: people
     content:
-      title: The Team
+      title: Our Team
       subtitle: >
-        *A team is a group of individuals working together to achieve their goals. Team members help one another realize their true potential and create an environment that allows everyone to surpass their limitations. These team members have directly aided me in my research and have helped me become a better scientist.*
+        *The Trusted Science Center brings together a diverse team of researchers and students dedicated to quantitative, applied, and management-focused science. We collaborate to design rigorous studies, analyze complex datasets, and translate results into meaningful conservation and restoration outcomes. Our group values curiosity, inclusivity, and mentorship—working together to advance science that is both credible and trusted.*
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:

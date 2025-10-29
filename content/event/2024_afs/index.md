@@ -50,6 +50,6 @@ share: false
 #### {{< mention "corwyn_hall" >}}, {{< mention "admin" >}}, {{< mention "wray_gabel" >}}, Alex W. Mott, Kyle R. Piller. 
 **Condition indices of Ictalurid catfishes in Lake Maurepas, Louisiana.** *(Poster)*
 
-![Diving](diving.pdf "Night Dives in Hawaii with the University of Florida Crew")
+![Diving](diving.jpg "Night Dives in Hawaii with the University of Florida Crew")
 
 ---

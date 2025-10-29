@@ -29,27 +29,40 @@ image:
 tags: ["conference", "presentations", "AFS"]
 
 share: false
+---
+
+## 🎣 Trusted Science Center Presentations
 
 ---
 
-### Trusted Science Center Presentations
+### **Assessing freshwater length limit management strategies: a meta-analysis to bridge knowledge gaps**  
+*Talk*  
+**{{< mention "admin" >}}, Robert W. Eckelbecker, Henry J. Hershey, Stephen W. Parker**
 
-#### {{< mention "admin" >}}, Robert W. Eckelbecker, Henry J. Hershey, Stephen W. Parker.  
-**Assessing freshwater length limit management strategies: a meta-analysis to bridge knowledge gaps.** *(Talk)*  
+---
 
-#### {{< mention "admin" >}}, Kimberly I. Bonvechio, Alex W. Mott, {{< mention "corwyn_hall" >}}, {{< mention "wray_gabel" >}}, {{< mention "anthony_johnson" >}}, Kyle R. Piller. 
-**Creating a Lake Maurepas long-term monitoring program through integrative experiences.** *(Poster)*  
+### **Creating a Lake Maurepas long-term monitoring program through integrative experiences**  
+*Poster*  
+**{{< mention "admin" >}}, Kimberly I. Bonvechio, Alex W. Mott, {{< mention "corwyn_hall" >}}, {{< mention "wray_gabel" >}}, {{< mention "anthony_johnson" >}}, Kyle R. Piller**
 
-![Poster TSC](poster_tsc.jpg)
+[![Poster thumbnail](poster_tsc.jpg)](poster_tsc.pdf)  
+*Click to view full poster (PDF)*
 
-#### {{< mention "anthony_johnson" >}}, {{< mention "admin" >}}, {{< mention "jasmine_nasser" >}}, {{< mention "maggie_mcgreal" >}}, Christopher M. Murray. 
-**Impacts of perfluoropentanoic acid and cadmium on leukocyte profiles in largemouth bass.** *(Poster)*  
+---
 
-![Poster AJ](poster_aj.jpg)
+### **Impacts of perfluoropentanoic acid and cadmium on leukocyte profiles in largemouth bass**  
+*Poster*  
+**{{< mention "anthony_johnson" >}}, {{< mention "admin" >}}, {{< mention "jasmine_nasser" >}}, {{< mention "maggie_mcgreal" >}}, Christopher M. Murray**
 
-#### {{< mention "corwyn_hall" >}}, {{< mention "admin" >}}, {{< mention "wray_gabel" >}}, Alex W. Mott, Kyle R. Piller. 
-**Condition indices of Ictalurid catfishes in Lake Maurepas, Louisiana.** *(Poster)*
+[![Poster thumbnail](poster_aj.jpg)](poster_aj.pdf)  
+*Click to view full poster (PDF)*
 
-![Diving](diving.jpg "Night Dives in Hawaii with the University of Florida Crew")
+---
+
+### **Condition indices of Ictalurid catfishes in Lake Maurepas, Louisiana**  
+*Poster*  
+**{{< mention "corwyn_hall" >}}, {{< mention "admin" >}}, {{< mention "wray_gabel" >}}, Alex W. Mott, Kyle R. Piller**
+
+![Night Dives in Hawaii with the University of Florida Crew](diving.jpg "Night Dives in Hawaii with the University of Florida Crew")
 
 ---

@@ -40,12 +40,12 @@ share: false
 #### {{< mention "admin" >}}, Kimberly I. Bonvechio, Alex W. Mott, {{< mention "corwyn_hall" >}}, {{< mention "wray_gabel" >}}, {{< mention "anthony_johnson" >}}, Kyle R. Piller. 
 **Creating a Lake Maurepas long-term monitoring program through integrative experiences.** *(Poster)*  
 
-![Poster TSC](poster_tsc.pdf)
+![Poster TSC](poster_tsc.jpg)
 
 #### {{< mention "anthony_johnson" >}}, {{< mention "admin" >}}, {{< mention "jasmine_nasser" >}}, {{< mention "maggie_mcgreal" >}}, Christopher M. Murray. 
 **Impacts of perfluoropentanoic acid and cadmium on leukocyte profiles in largemouth bass.** *(Poster)*  
 
-![Poster AJ](poster_aj.pdf)
+![Poster AJ](poster_aj.jpg)
 
 #### {{< mention "corwyn_hall" >}}, {{< mention "admin" >}}, {{< mention "wray_gabel" >}}, Alex W. Mott, Kyle R. Piller. 
 **Condition indices of Ictalurid catfishes in Lake Maurepas, Louisiana.** *(Poster)*

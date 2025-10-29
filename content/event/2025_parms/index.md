@@ -23,27 +23,47 @@ publishDate: "2023-10-01T00:00:00Z"
 featured: false
 image:
   filename: "featured.jpg"
-  caption: "PARMS 2025 — Aiken"
+  caption: "PARMS 2025 — Aiken, South Carolina"
   focal_point: "Center"
 
 tags: ["conference", "presentations", "PARMS"]
 
 share: false
+---
+
+## 🐊 Trusted Science Center Presentations
 
 ---
 
-### Trusted Science Center Presentations
+### **Hydrology drives behavioral flexibility in the seasonal movements of American crocodiles (*Crocodylus acutus*) in Costa Rica**  
+*Talk*  
+**{{< mention "maggie_mcgreal" >}}, {{< mention "admin" >}}, Davinia Beneyto Garrigos, Mahmood Sasa Marin, Christopher M. Murray**
 
-#### {{< mention "maggie_mcgreal" >}}, {{< mention "admin" >}}, Davinia Beneyto Garrigos, Mahmood Sasa Marin, Christopher M. Murray.
-**Hydrology drives behavioral flexibility in the seasonal movements of American crocodiles** *(Crocodylus acutus)* **in Costa Rica.** *(Talk)*  
+[![Maggie presenting on crocodile movements](maggie_parms.jpg "Maggie presenting her crocodile research at PARMS 2025")](maggie_parms.jpg)  
+*Click image to enlarge*
 
-#### {{< mention "anthony_johnson" >}}, {{< mention "admin" >}}, Christopher M. Murray.
-**Landscape physiology and drivers of stress in the American alligator** *(Alligator mississippiensis)***.** *(Talk)*  
+---
 
-#### {{< mention "lani_milstead" >}}, {{< mention "admin" >}}, Jorge Lopez-Perez, Christopher M. Murray.
-**Light and density effects on American alligator** *(Alligator mississippiensis)* **stress and scarring in aquacultural facilities.** *(Talk)*  
+### **Landscape physiology and drivers of stress in the American alligator (*Alligator mississippiensis*)**  
+*Talk*  
+**{{< mention "anthony_johnson" >}}, {{< mention "admin" >}}, Christopher M. Murray**
 
+[![Anthony presenting on alligator physiology](anthony_parms.jpg "Anthony presenting his alligator stress physiology research at PARMS 2025")](anthony_parms.jpg)  
+*Click image to enlarge*
 
-![Boil](crawfish.jpg "Louisiana Crawfish Boil by the Murray Lab for the Conference")
+---
+
+### **Light and density effects on American alligator (*Alligator mississippiensis*) stress and scarring in aquacultural facilities**  
+*Talk*  
+**{{< mention "lani_milstead" >}}, {{< mention "admin" >}}, Jorge Lopez-Perez, Christopher M. Murray**
+
+[![Lani presenting her aquaculture study](lani_parms.jpg "Lani presenting her aquaculture research at PARMS 2025")](lani_parms.jpg)  
+*Click image to enlarge*
+
+---
+
+Maggie, Anthony, and Lani represented the Trusted Science Center and Southeastern Louisiana University with energy and professionalism — sharing exciting advances in alligator and crocodilian research.
+
+![Louisiana Crawfish Boil by the Murray Lab for the Conference](crawfish.jpg "Louisiana Crawfish Boil hosted by the Murray Lab during the Symposium")
 
 ---

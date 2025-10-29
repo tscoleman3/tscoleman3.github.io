@@ -23,23 +23,36 @@ publishDate: "2023-10-01T00:00:00Z"
 featured: false
 image:
   filename: "featured.jpg"
-  caption: "SCIB 2025 — Atlanta"
+  caption: "SICB 2025 — Atlanta"
   focal_point: "Center"
 
-tags: ["conference", "presentations", "SCIB"]
+tags: ["conference", "presentations", "SICB"]
 
 share: false
+---
+
+## 🧠 Trusted Science Center Presentations
 
 ---
 
-### Trusted Science Center Presentations
+### **Hydrology drives behavioral flexibility in the seasonal movements of American crocodiles (*Crocodylus acutus*) in Costa Rica**  
+*Talk*  
+**{{< mention "maggie_mcgreal" >}}, {{< mention "admin" >}}, Davinia Beneyto Garrigos, Mahmood Sasa Marin, Christopher M. Murray**
 
-#### {{< mention "maggie_mcgreal" >}}, {{< mention "admin" >}}, Davinia Beneyto Garrigos, Mahmood Sasa Marin, Christopher M. Murray.
-**Hydrology drives behavioral flexibility in the seasonal movements of American crocodiles** *(Crocodylus acutus)* **in Costa Rica.** *(Talk)*  
+[![Maggie presenting at SICB](maggie_talk.jpg "Maggie presenting her crocodile research at SICB 2025")](maggie_talk.jpg)  
+*Click image to enlarge*
 
-#### {{< mention "lani_milstead" >}}, {{< mention "admin" >}}, Jorge Lopez-Perez, Christopher M. Murray.
-**Light and density effects on American alligator** *(Alligator mississippiensis)* **stress and scarring in aquacultural facilities.** *(Talk)*  
+---
 
-Maggie and Lani did an excellent job representing Southeastern Louisiana University.
+### **Light and density effects on American alligator (*Alligator mississippiensis*) stress and scarring in aquacultural facilities**  
+*Talk*  
+**{{< mention "lani_milstead" >}}, {{< mention "admin" >}}, Jorge Lopez-Perez, Christopher M. Murray**
+
+[![Lani presenting at SICB](lani_talk.jpg "Lani discussing alligator stress physiology at SICB 2025")](lani_talk.jpg)  
+*Click image to enlarge*
+
+---
+
+Maggie and Lani did an excellent job representing Southeastern Louisiana University and the Trusted Science Center.
 
 ---

@@ -22,21 +22,27 @@ publishDate: "2024-10-01T00:00:00Z"
 
 featured: false
 image:
-  filename: "nat_afs2025.jpg"    # (optional, if you have a conference photo in assets/media/)
-  caption: "AFS 2025 — San Antonio"
+  filename: "nat_afs2025.jpg"
+  caption: "AFS 2025 — San Antonio, Texas"
   focal_point: "Center"
 
 tags: ["conference", "presentations", "AFS"]
 
 share: false
+---
+
+## 🐠 Trusted Science Center Presentations
 
 ---
 
-### Trusted Science Center Presentations
+### **Comparing active and passive methods of aquatic environmental DNA collection across a diel cycle in a coastal riverine habitat**  
+*Talk*  
+**{{< mention "camden_oathout" >}}, Claire E. Gard, {{< mention "admin" >}}, and Kyle R. Piller**
 
-#### {{< mention "camden_oathout" >}}, Claire E. Gard, {{< mention "admin" >}},  Kyle R. Piller.  
-**Comparing active and passive methods of aquatic environmental DNA collection across a diel cycle in a coastal riverine habitat.** *(Talk)*  
+---
 
-![The Alamo](alamo.jpg "The Alamo")
+Our team showcased ongoing advances in aquatic ecology, environmental DNA, and ecosystem monitoring — representing Southeastern Louisiana University and the Center for Environmental Research with excellence.
+
+![The Alamo](alamo.jpg "The Alamo — San Antonio, TX")
 
 ---

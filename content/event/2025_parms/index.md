@@ -2,7 +2,7 @@
 title: "Palmetto Alligator Research and Management Symposium"
 
 event: "Palmetto Alligator Research and Management Symposium"
-event_url: "https://burkclients.com/JMIH/meetings/2025/site/index.html"
+event_url: "https://srel.uga.edu/2025-palmetto-alligator-research-and-management-symposium-held-at-srel-conference-center/"
 
 location: "Savannah River Ecology Laboratory"
 address:

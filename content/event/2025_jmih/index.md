@@ -1,7 +1,7 @@
 ---
-title: "Joint Meeting of Ichthyologists and Herpetologists"
+title: "Ichthyologists and Herpetologists Conference"
 
-event: "Annual Joint Meeting of Ichthyologists and Herpetologists"
+event: "Ichthyologists and Herpetologists Conference"
 event_url: "https://burkclients.com/JMIH/meetings/2025/site/index.html"
 
 location: "Saint Paul RiverCentre"

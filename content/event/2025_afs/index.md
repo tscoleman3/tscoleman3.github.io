@@ -1,5 +1,5 @@
 ---
-title: "National American Fisheries Society Conference 2025"
+title: "National American Fisheries Society Conference"
 
 event: "National American Fisheries Society 155th Annual Meeting"
 event_url: "https://afsannualmeeting2025.fisheries.org/"

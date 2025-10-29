@@ -40,7 +40,6 @@ share: false
 **{{< mention "maggie_mcgreal" >}}, {{< mention "admin" >}}, Davinia Beneyto Garrigos, Mahmood Sasa Marin, Christopher M. Murray**
 
 [![Maggie presenting on crocodile movements](maggie_parms.jpg "Maggie helping Anthony with his research")](maggie_parms.jpg)  
-*Click image to enlarge*
 
 ---
 
@@ -49,7 +48,6 @@ share: false
 **{{< mention "anthony_johnson" >}}, {{< mention "admin" >}}, Christopher M. Murray**
 
 [![Anthony presenting on alligator physiology](anthony_parms.jpg "Anthony holding one of his sampled individuals")](anthony_parms.jpg)  
-*Click image to enlarge*
 
 ---
 

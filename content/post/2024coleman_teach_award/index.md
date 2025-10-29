@@ -1,6 +1,6 @@
 ---
 title: "Tyler Steven Coleman awarded a 2024 Praise the Pride Award"
-date: 2024-09-05
+date: 2024-05-15
 authors: ["admin"]
 summary: "This award was created to honor faculty members who go above and beyond for their students."
 tags: ["awards"]

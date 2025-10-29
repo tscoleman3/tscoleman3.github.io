@@ -13,4 +13,4 @@ The Center for Faculty Excellence at Southeastern Louisiana University created t
 
 It is this kind of commitment to the success of students that has kept Southeastern thriving. 
 
-One student said: Dr. Coleman spends countless hours helping students out in addition to his own work conducting research, developing a new course for graduate students in the Department of Biological Sciences, and conducting field work.
+One student said: *Dr. Coleman spends countless hours helping students out in addition to his own work conducting research, developing a new course for graduate students in the Department of Biological Sciences, and conducting field work.*

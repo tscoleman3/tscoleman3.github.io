@@ -39,7 +39,7 @@ share: false
 *Talk*  
 **{{< mention "maggie_mcgreal" >}}, {{< mention "admin" >}}, Davinia Beneyto Garrigos, Mahmood Sasa Marin, Christopher M. Murray**
 
-[![Maggie presenting on crocodile movements](maggie_parms.jpg "Maggie presenting her crocodile research at PARMS 2025")](maggie_parms.jpg)  
+[![Maggie presenting on crocodile movements](maggie_parms.jpg "Maggie helping Anthony with his research")](maggie_parms.jpg)  
 *Click image to enlarge*
 
 ---
@@ -48,7 +48,7 @@ share: false
 *Talk*  
 **{{< mention "anthony_johnson" >}}, {{< mention "admin" >}}, Christopher M. Murray**
 
-[![Anthony presenting on alligator physiology](anthony_parms.jpg "Anthony presenting his alligator stress physiology research at PARMS 2025")](anthony_parms.jpg)  
+[![Anthony presenting on alligator physiology](anthony_parms.jpg "Anthony holding one of his sampled individuals")](anthony_parms.jpg)  
 *Click image to enlarge*
 
 ---
@@ -56,9 +56,6 @@ share: false
 ### **Light and density effects on American alligator (*Alligator mississippiensis*) stress and scarring in aquacultural facilities**  
 *Talk*  
 **{{< mention "lani_milstead" >}}, {{< mention "admin" >}}, Jorge Lopez-Perez, Christopher M. Murray**
-
-[![Lani presenting her aquaculture study](lani_parms.jpg "Lani presenting her aquaculture research at PARMS 2025")](lani_parms.jpg)  
-*Click image to enlarge*
 
 ---
 

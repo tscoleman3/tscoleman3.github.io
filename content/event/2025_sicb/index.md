@@ -39,17 +39,11 @@ share: false
 *Talk*  
 **{{< mention "maggie_mcgreal" >}}, {{< mention "admin" >}}, Davinia Beneyto Garrigos, Mahmood Sasa Marin, Christopher M. Murray**
 
-[![Maggie presenting at SICB](maggie_talk.jpg "Maggie presenting her crocodile research at SICB 2025")](maggie_talk.jpg)  
-*Click image to enlarge*
-
 ---
 
 ### **Light and density effects on American alligator (*Alligator mississippiensis*) stress and scarring in aquacultural facilities**  
 *Talk*  
 **{{< mention "lani_milstead" >}}, {{< mention "admin" >}}, Jorge Lopez-Perez, Christopher M. Murray**
-
-[![Lani presenting at SICB](lani_talk.jpg "Lani discussing alligator stress physiology at SICB 2025")](lani_talk.jpg)  
-*Click image to enlarge*
 
 ---
 

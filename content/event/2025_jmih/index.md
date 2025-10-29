@@ -22,23 +22,27 @@ publishDate: "2023-10-01T00:00:00Z"
 
 featured: false
 image:
-  filename: "featured.jpg"    # (optional, if you have a conference photo in assets/media/)
+  filename: "featured.jpg"
   caption: "JMIH 2025 — Saint Paul"
   focal_point: "Center"
 
 tags: ["conference", "presentations", "JMIH"]
 
 share: false
+---
+
+## 🐟 Trusted Science Center Presentations
 
 ---
 
-### Trusted Science Center Presentations
+### **Comparing active and passive methods of aquatic environmental DNA collection across a diel cycle in a coastal riverine habitat**  
+*Talk*  
+**{{< mention "camden_oathout" >}}, Claire E. Gard, {{< mention "admin" >}}, and Kyle R. Piller**
 
-#### {{< mention "camden_oathout" >}}, Claire E. Gard, {{< mention "admin" >}},  Kyle R. Piller.  
-**Comparing active and passive methods of aquatic environmental DNA collection across a diel cycle in a coastal riverine habitat.** *(Talk)*  
+---
 
-Cam does a great job representing Southeastern Louisiana University, the Center for Environmental Research, and the TSC.
+Cam represented Southeastern Louisiana University, the Center for Environmental Research, and the Trusted Science Center with professionalism and enthusiasm — showcasing innovative eDNA approaches to aquatic research.
 
-![The Twins](twins.jpg "Minnesota Twins Baseball Game")
+![Minnesota Twins Baseball Game](twins.jpg "The Trusted Science Center crew enjoyed a Twins game after the conference sessions.")
 
 ---

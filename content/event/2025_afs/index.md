@@ -28,6 +28,8 @@ image:
 
 tags: ["conference", "presentations", "AFS"]
 
+share: false
+
 ---
 
 ### Trusted Science Center Presentations

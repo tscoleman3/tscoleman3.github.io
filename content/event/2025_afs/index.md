@@ -32,9 +32,9 @@ tags: ["conference", "presentations", "AFS"]
 
 ### Trusted Science Center Presentations
 
-#### {{< mention "camden_oathout" >}}, Claire E. Gard, {{< mention "admin" >}}, and Kyle R. Piller  
-Comparing active and passive methods of aquatic environmental DNA collection across a diel cycle in a coastal riverine habitat. *(Talk)*  
+#### {{< mention "camden_oathout" >}}, Claire E. Gard, {{< mention "admin" >}},  Kyle R. Piller.  
+**Comparing active and passive methods of aquatic environmental DNA collection across a diel cycle in a coastal riverine habitat.** *(Talk)*  
 
-![The Alamo](alamo.jpg)
+![The Alamo](alamo.jpg "The Alamo")
 
 ---

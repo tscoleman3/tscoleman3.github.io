@@ -14,11 +14,11 @@ I always did my best to bring energy, enthusiasm, and cordiality to our Unit. I 
 The Unit wrote: *Every now and then, we encounter a student whose achievements are so noteworthy, and whose resilience amid adversity is so remarkable, that they deserve special recognition. We dedicate the 2023 Annual Report to one such student, Tyler Steven Coleman.*
 
 <p>
+  <a href="report.pdf" class="btn btn-primary" target="_blank" rel="noopener">
+    📄 Download the 2023 Annual Report Dedication (PDF)
+  </a>
   <a href="https://wec.ifas.ufl.edu/coop/publications/"
-     class="btn btn-primary" target="_blank" rel="noopener">
-    Read the full 2023 Annual Report Dedication (page 5)
+     class="btn btn-outline-primary" target="_blank" rel="noopener">
+    🌐 Read the full 2023 Annual Report Dedication
   </a>
 </p>
-
-# Links (use DOI as canonical source; add PDF only if you have a direct/public link)
-url_pdf: "https://tscoleman3.github.io/post/2024coleman_dedication/report.pdf"

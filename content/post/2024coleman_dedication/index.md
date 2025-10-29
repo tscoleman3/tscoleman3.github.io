@@ -19,3 +19,6 @@ The Unit wrote: *Every now and then, we encounter a student whose achievements a
     Read the full 2023 Annual Report Dedication (page 5)
   </a>
 </p>
+
+# Links (use DOI as canonical source; add PDF only if you have a direct/public link)
+url_pdf: "https://tscoleman3.github.io/post/2024coleman_dedication/report.pdf"

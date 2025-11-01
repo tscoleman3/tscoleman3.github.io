@@ -59,6 +59,9 @@ sections:
         **Dr. Russell A. Wright**  
         *Auburn University*  
 
+        **Mr. Brandon Thompson**  
+        *Florida Fish and Wildlife Conservation Commission*  
+
         **Dr. Steven Bradford Cook**  
         *Tennessee Tech University*  
 

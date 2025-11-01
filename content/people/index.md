@@ -29,7 +29,7 @@ sections:
   - block: markdown
     content:
       title: ""
-      subtitle: Previous Advisors & Mentors
+      subtitle: "Previous Advisors & Mentors"
       text: |
         <div align="center">
 

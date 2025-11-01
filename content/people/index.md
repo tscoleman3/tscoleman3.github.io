@@ -28,15 +28,52 @@ sections:
 
   - block: markdown
     content:
-      title: Previous Advisors & Committee Members
+      title: ""
+      subtitle: Previous Advisors & Mentors
       text: |
         <div align="center">
 
-        **Dr. Matthew J. Catalano** 
-        *Auburn University*
+        **Dr. Andrew K. Carlson**  
+        *University of Florida | USGS Cooperative Research Unit*  
+        *Current: Iowa Department of Natural Resources*
 
-        **Dr. Christopher M. Murray**
-        *Southeastern Louisiana University*
+        **Dr. Micheal S. Allen**  
+        *University of Florida*  
+
+        **Dr. Miguel A. Acevedo**  
+        *University of Florida*  
+
+        **Dr. José Miguel Ponciano**  
+        *University of Florida*  
+
+        **Dr. Benjamin A. Staton**  
+        *Columbia River Inter-Tribal Fish Commission*  
+
+        **Dr. Matthew J. Catalano**  
+        *Auburn University*  
+
+        **Dr. Dennis R. DeVries**  
+        *Auburn University*  
+
+        **Dr. Russell A. Wright**  
+        *Auburn University*  
+
+        **Dr. Steven Bradford Cook**  
+        *Tennessee Tech University*  
+
+        **Dr. Joshuah Perkin**  
+        *Tennessee Tech University*  
+        *Current: Texas A&M University*
+
+        **Dr. Keith Gibbs**  
+        *Tennessee Tech University*  
+        *Current: Western Carolina University*
+
+        **Dr. Christopher M. Murray**  
+        *Southeastern Louisiana University*  
+
+        **Dr. Kyle R. Piller**  
+        *Southeastern Louisiana University*  
 
         </div>
     design:

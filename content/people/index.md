@@ -29,9 +29,10 @@ sections:
   - block: markdown
     content:
       title: ""
-      subtitle: "Previous Advisors & Mentors"
       text: |
         <div align="center">
+
+        ### *Previous Advisors & Mentors*  
 
         **Dr. Andrew K. Carlson**  
         *University of Florida | USGS Cooperative Research Unit*  

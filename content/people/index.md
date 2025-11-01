@@ -32,7 +32,7 @@ sections:
       text: |
         <div align="center">
 
-        ### Previous Advisors & Mentors  
+        ### Previous Advisors/Committee Members/Mentors  
 
         **Dr. Andrew K. Carlson**  
         *University of Florida | USGS Cooperative Research Unit*  

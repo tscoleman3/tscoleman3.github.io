@@ -44,7 +44,7 @@ sections:
         **Dr. Miguel A. Acevedo**  
         *University of Florida*  
 
-        **Dr. José Miguel Ponciano**  
+        **Dr. José Miguel Ponciano Castellanos**  
         *University of Florida*  
 
         **Dr. Benjamin A. Staton**  

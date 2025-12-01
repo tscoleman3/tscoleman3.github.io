@@ -23,6 +23,7 @@ bio: My research interests lie at the interface between ecology (e.g., populatio
 interests:
   - Coupled Human and Natural Systems (CHANS)
   - Quantitative Ecology
+  - Integrative Biology
   - Applied Research
   - Data Science
 

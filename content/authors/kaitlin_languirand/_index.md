@@ -18,7 +18,8 @@ role: M.Sc. Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Southeastern Louisiana University
+  - name: Southeastern Louisiana University 
+  - name: (August 2024 – present)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

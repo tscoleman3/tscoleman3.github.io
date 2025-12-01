@@ -18,7 +18,8 @@ role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Florida
+  - name: University of Florida 
+  - name: (January 2023 – present)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

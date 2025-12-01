@@ -18,7 +18,8 @@ role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Rhode Island
+  - name: University of Rhode Island 
+  - name: (August 2024 – present)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

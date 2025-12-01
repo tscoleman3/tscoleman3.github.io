@@ -18,7 +18,8 @@ role: M.Sc. Graduate
 
 # Organizations/Affiliations
 organizations:
-  - name: Southeastern Louisiana University
+  - name: Southeastern Louisiana University 
+  - name: (August 2023 – May 2025)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

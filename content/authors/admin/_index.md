@@ -78,6 +78,6 @@ user_groups:
 
 I (he/him) am an assistant research professor (non-tenure-track) in the Center for Environmental Research and the Department of Biological Sciences at Southeastern Louisiana University. My career has focused on using data and models to reveal how natural and human processes interact, and I have been fortunate to collaborate with outstanding colleagues across a wide range of disciplines.
 
-Quantitative tools lie at the heart of my research because they distill the complexity of ecological and social systems into testable, actionable insights. This approach allows me to connect rigorous science directly to conservation, management, and restoration challenges.
+My research interests lie at the interface between ecology (e.g., population, community, behavioral), biology (e.g., physiology, morphology, ontogeny), and natural resource management. Quantitative tools lie at the heart of my research because they distill the complexity of ecological and social systems into testable, actionable insights. This approach allows me to connect rigorous science directly to conservation, management, and restoration challenges.
 
 In the classroom and through mentoring, I share this passion with students by breaking down quantitative methods in ways that are accessible, applied, and empowering---preparing the next generation of scientists to approach ecological questions with both precision and creativity.

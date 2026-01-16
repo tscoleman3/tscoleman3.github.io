@@ -1,5 +1,6 @@
 ---
-title: "Assessing oyster size distributions within intertidal Eastern Oyster *Crassostrea virginica* (Gmelin, 1791) populations across restoration sites, harvest zones, and spatial locations in the Big Bend of Florida"
+title: "Assessing oyster size distributions within intertidal Eastern Oyster (Gmelin, 1791) populations across restoration sites, harvest zones, and spatial locations in the Big Bend of Florida"
+subtitle: "(*Crassostrea virginica*)"
 
 authors:
   - William Pine III

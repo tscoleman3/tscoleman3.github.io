@@ -54,4 +54,15 @@ user_groups:
   - Committee Service
 ---
 
-Ben (he/him) is an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences in Dr. Kyle Piller's lab. He is a big Detroit sports fan. For his thesis, he is examining swimbladder evolution in *Percina* (Percidae) through the use of Micro-CT scanning and phylogenetic comparative methods.
+Ben (he/him) is an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences in Dr. Kyle Piller's lab. He is a big Detroit sports fan, and due to this, a committed athlete. His official combine times are as follows:
+
+  - 40-Yd Dash:     5.48
+  - Bench Press:    0.75
+  - Vertical Jump:  36
+  - Broad Jump:     92.4
+  - 20-Yd Shuttle:  4.83
+  - 3-Cone Drill:   7.88
+
+Ben's times reflect a Relative Athletic Score of 0.02. For scale, Jarvis Landry's RAS was a 0.27 and Josh Allen's was a 9.67.
+
+For Ben's thesis, he is examining swimbladder evolution in *Percina* (Percidae) through the use of Micro-CT scanning and phylogenetic comparative methods.

@@ -10,7 +10,7 @@ last_name: Coleman
 superuser: true
 
 # Role/position
-role: Assistant Research Professor
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -26,11 +26,12 @@ interests:
   - Integrative Biology
   - Applied Research
   - Data Science
+  - Biostatistics
 
 education:
   courses:
-    - course: Ph.D. in Wildlife Ecology and Conservation
-      institution: Florida Cooperative Fish and Wildlife Research Unit, University of Florida
+    - course: Ph.D. in Wildlife Ecology and Conservation, Florida Cooperative Fish and Wildlife Research Unit
+      institution: University of Florida
       year: 2023
     - course: M.Sc. in Fisheries, Aquaculture, and Aquatic Sciences
       institution: Auburn University
@@ -77,8 +78,8 @@ user_groups:
   - Principal Investigator
 ---
 
-I (he/him) am an research assistant professor (non-tenure-track) in the Center for Environmental Research and the Department of Biological Sciences at Southeastern Louisiana University. My career has focused on using data and models to reveal how natural and human processes interact, and I have been fortunate to collaborate with outstanding colleagues across a wide range of disciplines.
+I (he/him) am an Assistant Professor in the Department of Biological Sciences and Center for Environmental Research at Southeastern Louisiana University. My career has focused on using data and models to reveal how natural and human processes interact, and I have been fortunate to collaborate with outstanding colleagues across a wide range of disciplines.
 
 My research interests lie at the interface between ecology (e.g., population, community, behavioral), biology (e.g., physiology, morphology, ontogeny), and natural resource management. Quantitative tools lie at the heart of my research because they distill the complexity of ecological and social systems into testable, actionable insights. This approach allows me to connect rigorous science directly to conservation, management, and restoration challenges.
 
-In the classroom and through mentoring, I share this passion with students by breaking down quantitative methods in ways that are accessible, applied, and empowering---preparing the next generation of scientists to approach ecological questions with both precision and creativity.
+In the classroom and through mentoring, I share this passion with students by breaking down quantitative methods in ways that are digestable and applied---preparing the next generation of scientists to approach ecological questions with precision and creativity.

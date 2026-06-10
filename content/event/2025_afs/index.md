@@ -1,7 +1,7 @@
 ---
-title: "National American Fisheries Society Conference"
+title: "American Fisheries Society Annual Conference"
 
-event: "National American Fisheries Society 155th Annual Meeting"
+event: "American Fisheries Society 155th Annual Conference"
 event_url: "https://afsannualmeeting2025.fisheries.org/"
 
 location: "San Antonio Marriott Rivercenter"
@@ -11,7 +11,7 @@ address:
   postcode: "78205"
   country: "United States"
 
-summary: "Presentations at the 155th Annual Meeting of the American Fisheries Society"
+summary: "Presentations at the 155th Annual Conference of the American Fisheries Society"
 theme: "Headwaters to Saltwater: Understanding the Past, Protecting the Future — 155 Years of AFS"
 
 date: "2025-08-10"

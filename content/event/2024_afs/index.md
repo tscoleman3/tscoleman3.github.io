@@ -1,7 +1,7 @@
 ---
-title: "National American Fisheries Society Conference"
+title: "American Fisheries Society Annual Conference"
 
-event: "National American Fisheries Society Annual Meeting"
+event: "American Fisheries Society Annual Conference"
 event_url: "https://afsannualmeeting2024.fisheries.org/"
 
 location: "Hawaii Convention Center"
@@ -11,7 +11,7 @@ address:
   postcode: "96815"
   country: "United States"
 
-summary: "Presentations at the Annual Meeting of the American Fisheries Society"
+summary: "Presentations at the Annual Conference of the American Fisheries Society"
 theme: "Conserving Fishes and Fishing Traditions through Knowledge Co-Production"
 
 date: "2024-09-15"

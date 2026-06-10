@@ -23,7 +23,7 @@ publishDate: "2023-10-01T00:00:00Z"
 featured: false
 image:
   filename: "featured.jpg"
-  caption: "AFS 2024 — Hawaii"
+  caption: "SDAFS 2026 — New Orleans"
   focal_point: "Center"
 
 tags: ["conference", "presentations", "AFS"]

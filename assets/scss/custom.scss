@@ -77,38 +77,45 @@
 }
 
 
-/* Gallery page layout */
-.article-style .gallery-grid,
-.gallery-grid {
-  display: grid !important;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)) !important;
-  gap: 18px !important;
-  margin: 1.5rem 0 3rem 0 !important;
-  clear: both !important;
+/* Gallery table layout */
+.article-style table,
+.markdown-section table,
+section table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: separate;
+  border-spacing: 14px;
+  margin: 1.5rem 0 3rem 0;
 }
 
-.article-style .gallery-grid a,
-.gallery-grid a {
-  display: block !important;
-  width: 100% !important;
-  height: 240px !important;
-  overflow: hidden !important;
-  border-radius: 10px !important;
+.article-style table td,
+.markdown-section table td,
+section table td {
+  border: none !important;
+  padding: 0 !important;
+  vertical-align: top;
 }
 
-.article-style .gallery-grid img,
-.gallery-grid img {
-  display: block !important;
+.article-style table th,
+.markdown-section table th,
+section table th {
+  display: none;
+}
+
+.article-style table img,
+.markdown-section table img,
+section table img {
   width: 100% !important;
-  height: 100% !important;
-  max-width: none !important;
+  height: 230px !important;
   object-fit: cover !important;
-  margin: 0 !important;
   border-radius: 10px !important;
+  margin: 0 !important;
+  display: block !important;
 }
 
-.article-style .gallery-grid img:hover,
-.gallery-grid img:hover {
-  transform: scale(1.03);
+.article-style table img:hover,
+.markdown-section table img:hover,
+section table img:hover {
+  transform: scale(1.02);
   opacity: 0.92;
 }

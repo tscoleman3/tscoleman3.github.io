@@ -14,7 +14,7 @@ sections:
 
         **Interested in Joining the Trusted Science Center?**
 
-        The Trusted Science Center is always interested in working with motivated undergraduate students, graduate students, and collaborators who share a passion for applied, quantitative, and management-focused science. Prospective students and researchers are encouraged to contact Dr. Coleman to discuss potential research opportunities and ongoing projects.
+        The Trusted Science Center welcomes inquiries from prospective undergraduate and graduate students, postdoctoral researchers, collaborators, natural resource professionals, and members of the public interested in our work. We are also happy to discuss opportunities related to interviews, podcasts, social media, outreach activities, invited presentations, and other science communication initiatives. Please feel free to contact Dr. Coleman to discuss research opportunities, potential collaborations, or other shared interests.
 
       address:
         street: 808 N Pine St

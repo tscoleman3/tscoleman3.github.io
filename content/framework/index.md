@@ -1,5 +1,5 @@
 ---
-title: "Tour"
+title: "Framework"
 date: 2024-10-24
 type: landing
 

@@ -23,14 +23,14 @@ date: 2024-10-24
 
 <div class="gallery-grid">
 
-<a href="/images/gallery/fieldwork/field1.jpg" target="_blank"><img src="/images/gallery/fieldwork/field1.jpg" alt="Fieldwork"></a>
-<a href="/images/gallery/fieldwork/field2.jpg" target="_blank"><img src="/images/gallery/fieldwork/field2.jpg" alt="Fieldwork"></a>
-<a href="/images/gallery/fieldwork/field3.jpg" target="_blank"><img src="/images/gallery/fieldwork/field3.jpg" alt="Fieldwork"></a>
-<a href="/images/gallery/fieldwork/field4.jpg" target="_blank"><img src="/images/gallery/fieldwork/field4.jpg" alt="Fieldwork"></a>
-<a href="/images/gallery/fieldwork/field5.jpg" target="_blank"><img src="/images/gallery/fieldwork/field5.jpg" alt="Fieldwork"></a>
-<a href="/images/gallery/fieldwork/field6.jpg" target="_blank"><img src="/images/gallery/fieldwork/field6.jpg" alt="Fieldwork"></a>
-<a href="/images/gallery/fieldwork/field7.jpg" target="_blank"><img src="/images/gallery/fieldwork/field7.jpg" alt="Fieldwork"></a>
-<a href="/images/gallery/fieldwork/field8.jpg" target="_blank"><img src="/images/gallery/fieldwork/field8.jpg" alt="Fieldwork"></a>
+<a href="/images/gallery/fieldwork/fieldwork1.jpg" target="_blank"><img src="/images/gallery/fieldwork/fieldwork1.jpg" alt="Fieldwork"></a>
+<a href="/images/gallery/fieldwork/fieldwork2.jpg" target="_blank"><img src="/images/gallery/fieldwork/fieldwork2.jpg" alt="Fieldwork"></a>
+<a href="/images/gallery/fieldwork/fieldwork3.jpg" target="_blank"><img src="/images/gallery/fieldwork/fieldwork3.jpg" alt="Fieldwork"></a>
+<a href="/images/gallery/fieldwork/fieldwork4.jpg" target="_blank"><img src="/images/gallery/fieldwork/fieldwork4.jpg" alt="Fieldwork"></a>
+<a href="/images/gallery/fieldwork/fieldwork5.jpg" target="_blank"><img src="/images/gallery/fieldwork/fieldwork5.jpg" alt="Fieldwork"></a>
+<a href="/images/gallery/fieldwork/fieldwork6.jpg" target="_blank"><img src="/images/gallery/fieldwork/fieldwork6.jpg" alt="Fieldwork"></a>
+<a href="/images/gallery/fieldwork/fieldwork7.jpg" target="_blank"><img src="/images/gallery/fieldwork/fieldwork7.jpg" alt="Fieldwork"></a>
+<a href="/images/gallery/fieldwork/fieldwork8.jpg" target="_blank"><img src="/images/gallery/fieldwork/fieldwork8.jpg" alt="Fieldwork"></a>
 
 </div>
 

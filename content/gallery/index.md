@@ -7,9 +7,8 @@ sections:
   - block: markdown
     content:
       title: Gallery
-      subtitle: >
+      text: |
         **Scenes from life in and around the Trusted Science Center.**
-      text:
 
         ### Southeastern Louisiana University
 

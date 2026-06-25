@@ -6,9 +6,9 @@ type: landing
 
 ## Gallery
 
-Scenes from Southeastern's campus, fieldwork, and life in and around the Trusted Science Center.
+**Scenes from life in and around the Trusted Science Center.**
 
-### Southeastern Louisiana University
+### The Beautiful Southeastern Louisiana University
 
 <div class="gallery-grid">
 
@@ -44,7 +44,10 @@ Scenes from Southeastern's campus, fieldwork, and life in and around the Trusted
 <div class="gallery-grid">
 
 <a href="/images/gallery/copper/copper1.jpg" target="_blank"><img src="/images/gallery/copper/copper1.jpg" alt="Copper"></a>
+<a href="/images/gallery/copper/copper2.jpg" target="_blank"><img src="/images/gallery/copper/copper2.jpg" alt="Copper"></a>
+<a href="/images/gallery/copper/copper3.jpg" target="_blank"><img src="/images/gallery/copper/copper3.jpg" alt="Copper"></a>
+<a href="/images/gallery/copper/copper4.jpg" target="_blank"><img src="/images/gallery/copper/copper4.jpg" alt="Copper"></a>
 <a href="/images/gallery/bills/bills1.jpg" target="_blank"><img src="/images/gallery/bills/bills1.jpg" alt="Buffalo Bills"></a>
-<a href="/images/gallery/outdoors/garden1.jpg" target="_blank"><img src="/images/gallery/gardens/garden1.jpg" alt="Garden"></a>
+<a href="/images/gallery/outdoors/outdoors1.jpg" target="_blank"><img src="/images/gallery/gardens/outdoors1.jpg" alt="Seahorse"></a>
 
 </div>

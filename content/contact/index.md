@@ -11,8 +11,11 @@ sections:
       email: tscoleman3@gmail.com
       text: |
         **University Email:** tyler.coleman-5@selu.edu
+        
         **Interested in joining the Trusted Science Center?**
-        The Trusted Science Center is always interested in working with motivated undergraduate students, graduate students, and other researchers who share a passion for applied, quantitative, and management-focused science. Please feel free to contact Dr. Coleman to discuss potential research opportunities and ongoing projects.
+        
+        The Trusted Science Center is always interested in working with motivated undergraduate students, graduate students, and collaborators who share a passion for applied, quantitative, and management-focused science. Prospective students and researchers are encouraged to contact Dr. Coleman to discuss potential research opportunities and ongoing projects.
+        
       address:
         street: 808 N Pine St
         city: Hammond

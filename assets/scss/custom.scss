@@ -41,9 +41,31 @@
   opacity: 0.95;
 }
 
+
+
 /* Events page spacing */
-.page-wrapper .universal-wrapper .col-lg-2 h3 {
-  margin-top: 3rem !important;
-  padding-top: 1rem;
-  border-top: 1px solid rgba(255,255,255,0.15);
+
+/* Add space between all event rows */
+.universal-wrapper .row[id="talk_list"] {
+  margin-bottom: 2.25rem !important;
+}
+
+/* Add a full-width separator before each new year group */
+.universal-wrapper .row[id="talk_list"]:has(.col-lg-2 h3) {
+  margin-top: 3.5rem !important;
+  padding-top: 1.25rem !important;
+  border-top: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+/* Don't add excessive spacing above the first year */
+.universal-wrapper .row[id="talk_list"]:first-of-type {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  border-top: none !important;
+}
+
+/* Style the year label itself */
+.universal-wrapper .row[id="talk_list"] .col-lg-2 h3 {
+  margin-top: 0 !important;
+  margin-bottom: 1rem !important;
 }

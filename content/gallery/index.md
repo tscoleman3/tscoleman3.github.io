@@ -13,7 +13,7 @@ date: 2024-10-24
 
 <div id="fieldwork-gallery" class="masonry-gallery"></div>
 
-## Around the Lab
+## Copper and Friends
 
 <div id="lab-gallery" class="masonry-gallery"></div>
 

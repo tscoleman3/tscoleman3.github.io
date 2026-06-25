@@ -60,5 +60,5 @@ user_groups:
   - Past Researchers
 ---
 
-I fiercely recruited Maria (she/her) to work with me in Dr. Andrew Carlson's lab during my Ph.D. As soon as I met her, when she was a Doris Duke Conservation Scholar with the Cooperative Fish and Wildlife Research Unit, I knew we could do great work together. We have now worked on numerous research projects and I am a better scientist and stronger mentor thanks to her. Maria is currently finishing up her M.Sc. degree at Auburn, searching for Ph.D. opportunities in Florida. 
+I fiercely recruited Maria (she/her) to work with me in Dr. Andrew Carlson's lab during my Ph.D. As soon as I met her, when she was a Doris Duke Conservation Scholar with the Cooperative Fish and Wildlife Research Unit, I knew we could do great work together. We have now worked on numerous research projects and I am a better scientist and stronger mentor thanks to her. Maria received her M.Sc. degree at Auburn, currently pursuing a Ph.D. at Florida International University. 
 

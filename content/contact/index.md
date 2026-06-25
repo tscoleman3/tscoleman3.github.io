@@ -19,7 +19,7 @@ sections:
       address:
         street: 808 N Pine St
         city: Hammond
-        region: Louisiana
+        region: LA
         postcode: '70401'
         country: United States
         country_code: US

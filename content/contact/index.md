@@ -10,6 +10,7 @@ sections:
       title: Contact
       text: ""
       email: tscoleman3@gmail.com
+      email: tyler.coleman-5@selu.edu
       address:
         street: 808 N Pine St
         city: Hammond

@@ -41,12 +41,9 @@
   opacity: 0.95;
 }
 
-/* Add extra spacing above year headings on Events page */
-.events-page h2 {
+/* Events page spacing */
+.page-wrapper .universal-wrapper .col-lg-2 h3 {
   margin-top: 3rem !important;
-}
-
-/* Remove extra space above the very first year on Eventa page */
-.events-page h2:first-of-type {
-  margin-top: 0 !important;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255,255,255,0.15);
 }

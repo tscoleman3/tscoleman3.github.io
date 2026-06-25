@@ -40,3 +40,13 @@
 [data-bs-theme="dark"] .navbar .navbar-brand::after {
   opacity: 0.95;
 }
+
+/* Add extra spacing above year headings on Events page */
+.events-page h2 {
+  margin-top: 3rem !important;
+}
+
+/* Remove extra space above the very first year on Eventa page */
+.events-page h2:first-of-type {
+  margin-top: 0 !important;
+}

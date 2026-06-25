@@ -69,3 +69,9 @@
   margin-top: 0 !important;
   margin-bottom: 1rem !important;
 }
+
+
+/* Hide contact form on Contact page */
+.contact-widget form {
+  display: none !important;
+}

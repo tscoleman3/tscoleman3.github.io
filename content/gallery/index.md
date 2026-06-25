@@ -5,7 +5,7 @@ date: 2024-10-24
 
 ## Scenes from life in and around the Trusted Science Center.
 
-### The Beautiful Southeastern Louisiana University
+### Southeastern Louisiana University
 
 <div class="gallery-grid">
 

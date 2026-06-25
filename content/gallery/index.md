@@ -3,9 +3,7 @@ title: Gallery
 date: 2024-10-24
 ---
 
-## Gallery
-
-**Scenes from life in and around the Trusted Science Center.**
+## Scenes from life in and around the Trusted Science Center.
 
 ### The Beautiful Southeastern Louisiana University
 

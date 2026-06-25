@@ -45,6 +45,6 @@ date: 2024-10-24
 <a href="/images/gallery/copper/copper3.jpg" target="_blank"><img src="/images/gallery/copper/copper3.jpg" alt="Copper"></a>
 <a href="/images/gallery/copper/copper4.jpg" target="_blank"><img src="/images/gallery/copper/copper4.jpg" alt="Copper"></a>
 <a href="/images/gallery/bills/bills1.jpg" target="_blank"><img src="/images/gallery/bills/bills1.jpg" alt="Buffalo Bills"></a>
-<a href="/images/gallery/outdoors/outdoors1.jpg" target="_blank"><img src="/images/gallery/gardens/outdoors1.jpg" alt="Seahorse"></a>
+<a href="/images/gallery/outdoors/outdoors1.jpg" target="_blank"><img src="/images/gallery/outdoors/outdoors1.jpg" alt="Seahorse"></a>
 
 </div>

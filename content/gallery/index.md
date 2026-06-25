@@ -1,7 +1,6 @@
 ---
 title: Gallery
 date: 2024-10-24
-type: landing
 ---
 
 ## Gallery

@@ -12,7 +12,7 @@ sections:
       text: |
         **University Email:** tyler.coleman-5@selu.edu
 
-        ### Interested in Joining the Trusted Science Center?
+        **Interested in Joining the Trusted Science Center?**
 
         The Trusted Science Center is always interested in working with motivated undergraduate students, graduate students, and collaborators who share a passion for applied, quantitative, and management-focused science. Prospective students and researchers are encouraged to contact Dr. Coleman to discuss potential research opportunities and ongoing projects.
 

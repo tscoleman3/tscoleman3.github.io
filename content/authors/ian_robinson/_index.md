@@ -26,7 +26,10 @@ organizations:
 bio: 
 
 interests:
-  - Herpetology
+  - Functional Morphology
+  - Phenotypic Plasticity
+  - Evolution
+  - Toad Stacking
 
 education:
   courses:
@@ -49,4 +52,5 @@ user_groups:
   - Committee Service
 ---
 
-Ian (he/him) is an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences with Dr. Christopher Beachy.
+Ian (he/him) is an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences in Dr. Chris Beachy’s Amphibian Growth Project lab. he is studying the effects of temperature and food availability on the growth and developmental morphology of eastern newt larvae. Originally from the Midwest, he completed his undergraduate degree in Zoology at Weber State, where he researched the impact of beaver dams on ecosystem biodiversity. Outside the lab, Ian enjoys reading, toad stacking, and designing and building bioactive terrariums. Looking ahead, his long-term goals include stacking more than 3 toads and one day conducting field research on poison dart frogs in the Amazon.
+

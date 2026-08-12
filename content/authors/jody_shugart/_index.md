@@ -27,15 +27,19 @@ bio:
 
 interests:
   - Wetland Science
+  - Ecology
 
 education:
   courses:
-    - course: B.A.Sc. in Applied Sciences
+    - course: B.Sc. in Biological Sciences
+      institution: Southeastern Louisiana University
+      year: 2025
+    - course: B.Sc. in Geology
       institution: Mississippi State University
-      year: 20
+      year: 2007
     - course: B.Sc. in Mathematics
       institution: University of Southern Mississippi
-      year: 20
+      year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -55,4 +59,4 @@ user_groups:
   - Committee Service
 ---
 
-Jody (he/him) is an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences. 
+Jody (he/him) is an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences advised by Dr. Eva Hillmann. 

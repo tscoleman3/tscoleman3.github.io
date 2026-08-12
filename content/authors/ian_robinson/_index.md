@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Kaitlin Languirand
+title: Ian Robinson
 
 # Full name (for SEO)
-first_name: Kaitlin
-last_name: Languirand
+first_name: Ian
+last_name: Robinson
 
 # Username (this should match the folder name)
 authors:
-  - kaitlin_languirand 
+  - ian_robinson 
 
 # Is this the primary user of the site?
 superuser: false
@@ -19,29 +19,26 @@ role: M.Sc. Student
 # Organizations/Affiliations
 organizations:
   - name: Southeastern Louisiana University 
-  - name: (August 2024 – present)
+  - name: (August 2025 – present)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - Systematic Biology
+  - Herpetology
 
 education:
   courses:
-    - course: B.Sc. in Biology
-      institution: Southeastern Louisiana University
-      year: 2024
+    - course: B.Sc. in Zoology
+      institution: Weber State University
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/kaitlin-languirand/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -52,4 +49,4 @@ user_groups:
   - Committee Service
 ---
 
-Kaitlin (she/her) is an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences with Dr. April Wright. She is unveiling Mosasaur evolution by examining modularity in discrete character data.
+Ian (he/him) is an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences with Dr. Christopher Beachy.

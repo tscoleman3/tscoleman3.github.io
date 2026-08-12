@@ -9,6 +9,7 @@ sections:
     content:
       title: Contact
       email: tscoleman3@gmail.com
+      phone: "+1 (985) 549-5295"
       text: |
         **University Email:** tyler.coleman-5@selu.edu
 

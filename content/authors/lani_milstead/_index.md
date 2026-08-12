@@ -31,10 +31,10 @@ interests:
 
 education:
   courses:
-    - course: M.Sc. in Biology
+    - course: M.Sc. in Biological Sciences
       institution: Southeastern Louisiana University
       year: 2025
-    - course: B.Sc. in Biology
+    - course: B.Sc. in Biological Sciences
       institution: Southeastern Louisiana University
       year: 2023
 

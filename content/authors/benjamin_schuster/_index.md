@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: M.Sc. Student
+role: M.Sc. Graduate
 
 # Organizations/Affiliations
 organizations:
   - name: Southeastern Louisiana University 
-  - name: (August 2024 – present)
+  - name: (August 2024 – August 2026)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,6 +32,9 @@ interests:
 
 education:
   courses:
+    - course: M.Sc. in Biological Sciences
+      institution: Southeastern Louisiana University
+      year: 2026
     - course: B.Sc. in Fisheries and Wildlife
       institution: Michigan State University
       year: 2022
@@ -51,7 +54,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Committee Service
+  - Committee Alumni
 ---
 
 Ben (he/him) is an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences in Dr. Kyle Piller's lab. He is a big Detroit sports fan, and due to this, a committed athlete. His official combine times are as follows:
@@ -65,4 +68,4 @@ Ben (he/him) is an M.Sc. student at Southeastern Louisiana University in the Dep
 
 Ben's times reflect a Relative Athletic Score of 0.02. For reference, Jarvis Landry's RAS was a 0.27 and Josh Allen's was a 9.67.
 
-For Ben's thesis, he is examining swimbladder evolution in *Percina* (Percidae) through the use of Micro-CT scanning and phylogenetic comparative methods.
+Ben examined swimbladder evolution in *Percina* (Percidae) through the use of Micro-CT scanning and phylogenetic comparative methods for his Thesis.

@@ -19,7 +19,7 @@ role: Research Associate
 # Organizations/Affiliations
 organizations:
   - name: Southeastern Louisiana University
-  - name: (May 2025 – present)
+  - name: (May 2025 – August 2026)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -53,7 +53,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Past Researchers
 ---
 
-Mario (he/him) is a familiar face, as he previously allowed me to be on his M.Sc. committee. He works in the Center for Environmental Research at Southeastern with the fisheries team.
+Mario (he/him) is a familiar face, as he previously allowed me to be on his M.Sc. committee. He worked in the Center for Environmental Research at Southeastern with the fisheries team.

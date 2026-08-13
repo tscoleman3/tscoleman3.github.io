@@ -56,4 +56,4 @@ user_groups:
   - Committee Alumni
 ---
 
-Marcy (they/them) worked with Dr. Kyle Piller at Southeastern Louisiana University.
+Marcy (she/her) worked with Dr. Kyle Piller at Southeastern Louisiana University on the genetic structure of Flathead Catfish across their native range. I had the pleasure working with Marcy in various field and course settings.

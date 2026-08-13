@@ -33,8 +33,8 @@ interests:
 education:
   courses:
     - course: B.Sc. in Zoology
-      institution: Weber State University
-      year: 2023
+      institution: Beacon College
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

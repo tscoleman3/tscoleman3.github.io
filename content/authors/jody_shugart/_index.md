@@ -59,4 +59,8 @@ user_groups:
   - Committee Service
 ---
 
-Jody (he/him) is an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences advised by Dr. Eva Hillmann. 
+Jody (he/him) is an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences advised by Dr. Eva Hillmann.
+
+A note from Jody:
+
+I left my environmental consulting job in 2024 to go back to school at SLU. I have bachelors degrees in mathematics from University of Southern Mississippi, geology from Mississippi State University, and biology from Southeastern Louisiana University. I am a licensed Professional Geologist (PG) in Louisiana, a licensed horticulturist in Louisiana, and a certified Professional Wetland Scientist (PWS). I live in Covington, Louisiana with my wife and two boys. In my free time, I'm an active birdwatcher, native plant gardener, and I'm currently writing a book on Louisiana natural history.

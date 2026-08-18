@@ -28,12 +28,13 @@ bio:
 interests:
   - Ecology
   - Herpetology
+  - Live Music
 
 education:
   courses:
     - course: B.Sc. in Biology
       institution: Salisbury University
-      year: 2025
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -50,4 +51,4 @@ user_groups:
   - Committee Service
 ---
 
-Rebecca (she/her) is an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences with Dr. Christopher Beachy.
+Rebecca (she/her) is an M.Sc. student at Southeastern Louisiana University in the Department of Biological Sciences with Dr. Christopher Beachy. She is studying the spatial ecology of the Three-toed Amphiuma using radiotelemetry. In her free time, she likes going to concerts, making collages, and going herping. She comes to Southeastern from Maryland, where she received her B.S. in Biology from Salisbury University.
